@@ -167,10 +167,10 @@ The terminologies have been organized by theme and scope. When possible, section
 
 |Scope   	|Name   	|biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI   	|Comment   	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
+|Organism   	|NCBITaxonomy   	|[bsg-000154]   	|http://purl.obolibrary.org/obo/ncbitaxon.owl   	|none specified   	|This ontology is made available via the UMLS. Users of all UMLS ontologies must abide by the terms of the UMLS license, available at https://uts.nlm.nih.gov/license.html   	|   	|   	|
+|Vertebrate Anatomy   	|UBERON   	|[bsg-000016]   	|http://purl.obolibrary.org/obo/uberon/ext.owl   	|BFO   	|CC-by 3.0 Unported Licence   	|https://github.com/obophenotype/uberon/issues   	|Integrative Resource engineered to go across species   	|
+|Strain   	| Rat Strain Ontology  	|[bsg-002625]   	|ftp://rgd.mcw.edu/pub/ontology/rat_strain/   	|none specified   	|not available   	|   	|Species specific resource   	|
+
 
 #### 4.4.3.2 Phenotype and Diseases
 
@@ -182,7 +182,6 @@ The same convention is used to layout the information, with a specific highlight
 |Influenza   	|FLU   	|[bsg-000094](https://biosharing.org/biodbcore-000094)   	|http://www.berkeleybop.org/ontologies/flu.owl   	|BFO   	|BSD license clause 4   	|   	|   	|
 |Malaria   	|IDOMAL   	|[bsg-000104](https://biosharing.org/biodbcore-000104)   	|http://www.berkeleybop.org/ontologies/idomal.owl   	|BFO   	|not available   	|   	|   	|
 |Rare disorder   	|ORDO   	|[bsg-002716](https://biosharing.org/biodbcore-002716)   	|http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip   	|none   	|Attribution-NoDerivs 3.0 Unported   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
 
 #### 4.4.3.3 Pathology and Disease Specific Resources
 
