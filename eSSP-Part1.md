@@ -1,6 +1,6 @@
 # A Business Case for Standards in eTRIKS
 
-
+<div style="text-align: justify;">
 **IMI eTRIKS project**<sup>[1](#myfootnote1)</sup> has released a set of documents aimed at project leaders and data managers alike to provide guidance and recommendations as to which standardization efforts may be relevant to them. The work carried out by eTRIKS is meant to be made available to all IMI projects<sup>[2](#myfootnote2)</sup>  to raise awareness as well as to gain input from specific fields of translational research  and further development and refinement of data standards. Furthermore, eTRIKS aims to provide regular updates and releases, to incorporate additions and follow-ups on technology evolution and progress in standardization initiatives. eTRIKS information feeds (mailing list, website) will be used to relay these updates.
 
 Data standards play an important role in managing and handling research data. On the one hand, regulatory agencies are increasingly mandating data standards for the submission of clinical research data and data sharing <sup>[3](#myfootnote3)</sup>-<sup>[4](#myfootnote4)</sup>  . On the other hand, data standards encourage the use of integrated metadata, which provides a solid foundation for systematically discovering, retrieving, understanding, integrating, disseminating, exchanging and reusing research data.
@@ -15,6 +15,7 @@ With the present document, IMI eTRIKS aims to bring about endorsement of the **F
 
 Finally, The entire set fo eTRIKS recommended resources can be accessed in a browseable, searcheable form from the Biosharing catalogue of standards and resources from [FAIRsharing](https://biosharing.org/collection/5?q=.)
 
+</div>
 
 # Part 1. Introduction
  
