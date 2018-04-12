@@ -73,8 +73,7 @@ Standards are developed to increase data interoperability, reproducibility, reus
 
 
 
-
-<a name="myfootnote1">1</a>: "What is eTRIKS..." 2012. 6 Jun. 2015  (http://www.etriks.org/)
+<a name="myfootnote1">1</a>: "What is eTRIKS?" 2012. 6 Jun. 2015  (http://www.etriks.org/)
 
 <a name="myfootnote2">2</a>: "Innovative Medicines Initiative: Home IMI." 2007. 6 Jun. 2015 (http://www.imi.europa.eu/)
 
@@ -92,9 +91,9 @@ Standards are developed to increase data interoperability, reproducibility, reus
 
 <a name="myfootnote9">9</a>: "Implementation of the ISO IDMP standards - European ..." 2015. 14 Mar. 2016 (http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/general/general_content_000645.jsp&mid=WC0b01ac058078fbe2)
 
-<a name="myfootnote10">10</a>: Mobley, A. "A Survey on Data Reproducibility in Cancer Research ..." 2013. (<)http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063221)
+<a name="myfootnote10">10</a>: Mobley, A. "A Survey on Data Reproducibility in Cancer Research ..." 2013. (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063221)
 
-<a name="myfootnote11">11</a>: "The FAIR Data Principles - FOR COMMENT - FORCE11." 2014. 6 Mar. 2016 (<)https://www.force11.org/group/fairgroup/fairprinciples)
+<a name="myfootnote11">11</a>: "The FAIR Data Principles - FOR COMMENT - FORCE11." 2014. 6 Mar. 2016 (https://www.force11.org/group/fairgroup/fairprinciples)
 
 <a name="myfootnote12">12</a>: "Dryad Digital Repository - Dryad." 2008. 10 Mar. 2016 (http://datadryad.org/)
 
