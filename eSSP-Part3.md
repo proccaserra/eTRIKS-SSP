@@ -34,13 +34,13 @@ The use of standards relies on the principles and basic rules of good annotation
     - What organization and/or individual perform them?
     - In what study class have they been performed?
     - For clinical studies, at what study activity identifier (ID) have they been performed?
-  - Where (i.e. geographic location) have they been performed? 
-  - From what subject ID have they been performed?
-  - From what specimen ID or part of the subject have they been performed?
-  - When have they been performed or when has the specimen been collected (local time)?
-  - What is measured or observed?
-  - What assay has been used?
-  - What biological material has been used by the assay? RNA, DNA, protein, serum etc…?
+    - Where (i.e. geographic location) have they been performed? 
+    - From what subject ID have they been performed?
+    - From what specimen ID or part of the subject have they been performed?
+    - When have they been performed or when has the specimen been collected (local time)?
+    - What is measured or observed?
+    - What assay has been used?
+    - What biological material has been used by the assay? RNA, DNA, protein, serum etc…?
 
 #### Example and Application: Procedure for selecting relevant standards given an eTRIKS dataset
 
@@ -63,6 +63,9 @@ In either situation, dealing with retrospective or prospective data, a data vali
 One of the eTRIKS objectives is to show how and why the adoption and use of standards can benefit the downstream knowledge generation within and across projects. Initial experience gained from the U-BIOPRED project<sup>[37](#myfootnote37)</sup>  will be reported in another document.
 
 
+
+
+---------------
 
 <a name="myfootnote15">15</a>:  "World Wide Web Consortium (W3C)." 19 Jun. 2015 (http://www.w3.org/)
 
