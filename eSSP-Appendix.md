@@ -25,8 +25,8 @@
   -	_An Application Ontology_ is a semantic resource developed specifically to answer uses cases and specific tasks defined by a focused software application such as user interface. Application Ontology often combines controlled vocabulary terms from various ‘reference’ resources (i.e. reference ontologies) by mixing and matching in an ad-hoc fashion (in the worst of cases), or according to principled way (for instances by combining reference ontologies sharing the same development practices). Application Ontologies requires constant synchronization with Parents/Source artefacts, something which can be achieved through software agents but places infrastructure demands. EFO, The experimental Factor Ontology, is an application ontology specifically developed for EMBL-EBI ArrayExpress needs.
   -	_A Controlled Vocabulary Term (CVT)_ is a term that belongs to a terminology, a dictionary, or an ontology for which an authoritative textual definition exists (complemented by a formal definition for ontologies). 
   -	_An eTRIKS Controlled Vocabulary Term  (eCVT)_ is a unique CVT in the eTRIKS CVT library, and has a corresponding identifier and the associated standard source.
-    -        The _eCVT library_ contains all the eCVT used by eTRIKS in eTRIKS.
-    -        _eTRIKS data labels_ are eCVT.
+    - The _eCVT library_ contains all the eCVT used by eTRIKS in eTRIKS.
+    - _eTRIKS data labels_ are eCVT.
   -	_Standardized data_ are either eCVT or numerical values converted to International System (SI) of units.
 
 ### Data Types and Levels

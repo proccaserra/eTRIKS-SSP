@@ -6,7 +6,7 @@ The goal is to deliver an environment to help and assist data managers in delive
 
   - a list of **recommendations** about relevant data standards to translational research (the eTRIKS Standard Starter Pack). The eTRIKS Standard Starter Pack will undergo annual updates to reflect the evolution and progress of standardization initiatives. For instance, CDISC releases Therapeutic Areas (TA) standards regularly as disease domains reach maturity. In the field of genomics, the Global Alliance for Genomic Health<sup>[43](#myfootnote43)</sup> is spearheading a new initiative to devise programmatic means to data exchange
 
-  - a set of operational guidelines, meaning clear procedure for creating ‘data management plans’ and ‘data validation plans’. eTRIKS WP3 expects to release these documents in the fourth quarter of 2015 (15Q4)
+  - a set of **operational guidelines**, meaning clear procedure for creating ‘data management plans’ and ‘data validation plans’. eTRIKS WP3 expects to release these documents in the fourth quarter of 2015 (15Q4)
 
   - a set of use-cases and user requirements that will be used to draft the functional specifications for a curation infrastructure as several needs have been identified such as an eTRIKS metadata registry which would:
     i. store eTRIKS vetted terminology artefact
@@ -19,4 +19,4 @@ A graphical overview of the roadmap is presented below.
 
 The coloured cones indicate planned releases and milestones. However, the output is not confined to single point releases and documents.  Training materials, examples and tutorials will be posted from eTRIKS portal as they are developed.
 
-<a name="myfootnote42">42</a>: "Global Alliance for Genomics and Health: Home." 2014. 19 Jun. 2015 <http://genomicsandhealth.org/>
+<a name="myfootnote43">43</a>: "Global Alliance for Genomics and Health: Home." 2014. 19 Jun. 2015 <http://genomicsandhealth.org/>
