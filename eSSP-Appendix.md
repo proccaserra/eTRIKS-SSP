@@ -63,23 +63,19 @@
 
 Biosharing (www.biosharing.org) is an open source initiative aiming at providing an up-to-date overview of the standards landscape in the life science. Besides various advanced search and filtering features, the registry offers communities to present the set of resources they rely on for their data management needs. The following figure illustrates how eTRIKS may use the Biosharing website to further broadcast and publicize technical recommendations.
 
-
-
+![alt text][image B]
 
 Figure 1. The eTRIKS view of relevant standards as available from Biosharing website.
 https://www.biosharing.org/collection/5?q=&view=table
 
-![alt text][image B]
-
-
 
 ## A.III. tranSMART master tree
+
+![alt text][image C]
+
 Left pane: First pass of a recommended hierarchy to use for tranSMART data explorer 
 Right pane: 2 views of a CDISC SDTM based TransMART master tree data explorer.  The lower pane expands the ‘CDISC STDM Adverse Event Domain showing possible descriptors used in the CDISC Tabulation format.
 
-[FIGURE]
-
-![alt text][image C]
 -----------------
 
 <a name="myfootnote44">44</a>: "Home - The Cancer Genome Atlas - Cancer Genome - TCGA." 2005. 8 Jun. 2015 (http://cancergenome.nih.gov/)

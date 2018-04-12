@@ -15,8 +15,13 @@ The goal is to deliver an environment to help and assist data managers in delive
 
 A graphical overview of the roadmap is presented below.
 
-[FIGURE]
+
+![alt text][image A]
 
 The coloured cones indicate planned releases and milestones. However, the output is not confined to single point releases and documents.  Training materials, examples and tutorials will be posted from eTRIKS portal as they are developed.
 
+-----------------
+
 <a name="myfootnote43">43</a>: "Global Alliance for Genomics and Health: Home." 2014. 19 Jun. 2015 <http://genomicsandhealth.org/>
+
+[image A]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-Roadmap.png  "image A"
