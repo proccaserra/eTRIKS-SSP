@@ -11,6 +11,7 @@ Where practical the following criteria are used to assess whether to adopt a sta
 
 Following is a list of attributes and criteria for selecting a standard suitable for use by eTRIKS.
 
+|		|		|
 |---	|---	|
 |Coverage:   	|The standard addresses the domain with a sufficient number of concepts, term sets and metadata elements to meet the user's needs.   	|
 |Depth and Breadth:   	|The standard delivers at an adequate granularity level to address  users needs and describing a study domain with accurate terms.   	|
