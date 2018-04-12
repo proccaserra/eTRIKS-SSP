@@ -181,7 +181,7 @@ The same convention is used to layout the information, with a specific highlight
 |---	|---	|---	|---	|---	|---	|---	|---	|
 |Influenza   	|FLU   	|[bsg-000094](https://biosharing.org/biodbcore-000094)   	|http://www.berkeleybop.org/ontologies/flu.owl   	|BFO   	|BSD license clause 4   	|   	|   	|
 |Malaria   	|IDOMAL   	|[bsg-000104](https://biosharing.org/biodbcore-000104)   	|http://www.berkeleybop.org/ontologies/idomal.owl   	|BFO   	|not available   	|   	|   	|
-|Rare disorder   	|ORDO   	|[bsg-002716](https://biosharing.org/biodbcore-002716)   	|http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip   	|none   	|Attribution-NoDerivs 3.0 Unported   	|   	|   	|
+|Rare disorder   	|ORDO   	|[bsg-002716](https://biosharing.org/biodbcore-002716)   	|http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip   	|none   	|Attribution-NoDerivs 3.0 Unported   	|
 
 #### 4.4.3.3 Pathology and Disease Specific Resources
 
