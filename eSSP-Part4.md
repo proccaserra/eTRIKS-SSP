@@ -178,9 +178,11 @@ The following table summarizes major, generic and well established semantic reso
 The same convention is used to layout the information, with a specific highlight on licensing terms as well as regulatory requirements. These are deemed critical information about the resources, of relevance when defining data management plans. 
 
 |Scope   	|Name   	|biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI   	|
-|---	|---	|---	|---	|---	|---	|---	|---	|
-|Influenza   	|FLU   	|[bsg-000094](https://biosharing.org/biodbcore-000094)   	|http://www.berkeleybop.org/ontologies/flu.owl   	|BFO   	|BSD license clause 4   	|   	|   	|
-|Malaria   	|IDOMAL   	|[bsg-000104](https://biosharing.org/biodbcore-000104)   	|http://www.berkeleybop.org/ontologies/idomal.owl   	|BFO   	|not available   	|   	|   	|
+|---	|---	|---	|---	|---	|---	|---	|
+|Influenza   	|FLU   	|[bsg-000094](https://biosharing.org/biodbcore-000094)   	|http://www.berkeleybop.org/ontologies/flu.owl   	|BFO   	|BSD license clause 4   	|   	|
+|Malaria   	|IDOMAL   	|[bsg-000104](https://biosharing.org/biodbcore-000104)   	|http://www.berkeleybop.org/ontologies/idomal.owl   	|BFO   	|not available   	|   	|
+|Rare disorder   	|ORDO   	|[bsg-002716](https://biosharing.org/biodbcore-002716)   	|http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip   	|none   	|Attribution-NoDerivs 3.0 Unported   	|   	|
+
 
 #### 4.4.3.3 Pathology and Disease Specific Resources
 
