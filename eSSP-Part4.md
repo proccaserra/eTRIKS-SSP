@@ -167,9 +167,9 @@ The terminologies have been organized by theme and scope. When possible, section
 
 |Scope   	|Name   	|biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI   	|Comment   	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
-|Organism   	|NCBITaxonomy   	|[bsg-000154]   	|http://purl.obolibrary.org/obo/ncbitaxon.owl   	|none specified   	|This ontology is made available via the UMLS. Users of all UMLS ontologies must abide by the terms of the UMLS license, available at https://uts.nlm.nih.gov/license.html   	|   	|   	|
-|Vertebrate Anatomy   	|UBERON   	|[bsg-000016]   	|http://purl.obolibrary.org/obo/uberon/ext.owl   	|BFO   	|CC-by 3.0 Unported Licence   	|https://github.com/obophenotype/uberon/issues   	|Integrative Resource engineered to go across species   	|
-|Strain   	| Rat Strain Ontology  	|[bsg-002625]   	|ftp://rgd.mcw.edu/pub/ontology/rat_strain/   	|none specified   	|not available   	|   	|Species specific resource   	|
+|Organism   	|NCBITaxonomy   	|[bsg-000154](https://biosharing.org/biodbcore-000154)   	|http://purl.obolibrary.org/obo/ncbitaxon.owl   	|none specified   	|This ontology is made available via the UMLS. Users of all UMLS ontologies must abide by the terms of the UMLS license, available at https://uts.nlm.nih.gov/license.html   	|   	|   	|
+|Vertebrate Anatomy   	|UBERON   	|[bsg-000016](https://biosharing.org/biodbcore-000016)   	|http://purl.obolibrary.org/obo/uberon/ext.owl   	|BFO   	|CC-by 3.0 Unported Licence   	|https://github.com/obophenotype/uberon/issues   	|Integrative Resource engineered to go across species   	|
+|Strain   	| Rat Strain Ontology  	|[bsg-002625](https://biosharing.org/biodbcore-002625)   	|ftp://rgd.mcw.edu/pub/ontology/rat_strain/   	|none specified   	|not available   	|   	|Species specific resource   	|
 
 
 #### 4.4.3.2 Phenotype and Diseases
