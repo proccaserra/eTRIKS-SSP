@@ -76,16 +76,26 @@ Standards are developed to increase data interoperability, reproducibility, reus
 <a name="myfootnote1">1</a>: "What is eTRIKS..." 2012. 6 Jun. 2015  (http://www.etriks.org/)
 
 <a name="myfootnote2">2</a>: "Innovative Medicines Initiative: Home IMI." 2007. 6 Jun. 2015 (http://www.imi.europa.eu/)
+
 <a name="myfootnote3">3</a>: "NIH Data Sharing Policy - National Institutes of Health." 2002. 6 Jun. 2015 (http://grants.nih.gov/grants/policy/data_sharing/)
-<a name="myfootnote4">4</a>: "An essential guide to open access for Wellcome Trust ..." 2011. 8 Jun. 2015 (<)http://www.wellcome.ac.uk/stellent/groups/corporatesite/@policy_communications/documents/web_document/WTVM050569.pdf)
+
+<a name="myfootnote4">4</a>: "An essential guide to open access for Wellcome Trust ..." 2011. 8 Jun. 2015 (http://www.wellcome.ac.uk/stellent/groups/corporatesite/@policy_communications/documents/web_document/WTVM050569.pdf)
+
 <a name="myfootnote5">5</a>: Brazma, Alvis et al. "Minimum information about a microarray experiment (MIAME)—toward standards for microarray data." Nature genetics 29.4 (2001): 365-371.
+
 <a name="myfootnote6">6</a>: Ashburner, Michael et al. "Gene Ontology: tool for the unification of biology." Nature genetics 25.1 (2000): 25-29.
-<a name="myfootnote7">7</a>: "CDISC | Strength Through Collaboration." 6 Jun. 2015 (http://www.cdisc.org/)
+
+<a name="myfootnote7">7</a>: "CDISC, Strength Through Collaboration." 6 Jun. 2015 (http://www.cdisc.org/)
+
 <a name="myfootnote8">8</a>: "ISA Tools." 2005. 6 Jun. 2015 (http://www.isa-tools.org/)
 
 <a name="myfootnote9">9</a>: "Implementation of the ISO IDMP standards - European ..." 2015. 14 Mar. 2016 (http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/general/general_content_000645.jsp&mid=WC0b01ac058078fbe2)
+
 <a name="myfootnote10">10</a>: Mobley, A. "A Survey on Data Reproducibility in Cancer Research ..." 2013. (<)http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063221)
-<a name="myfootnote11">11</a>: "The FAIR Data Principles - FOR COMMENT | FORCE11." 2014. 6 Mar. 2016 (<)https://www.force11.org/group/fairgroup/fairprinciples)
+
+<a name="myfootnote11">11</a>: "The FAIR Data Principles - FOR COMMENT - FORCE11." 2014. 6 Mar. 2016 (<)https://www.force11.org/group/fairgroup/fairprinciples)
+
 <a name="myfootnote12">12</a>: "Dryad Digital Repository - Dryad." 2008. 10 Mar. 2016 (http://datadryad.org/)
+
 <a name="myfootnote13">13</a>: "figshare - credit for all your research." 2012. 10 Mar. 2016 (https://figshare.com/)
 
