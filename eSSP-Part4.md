@@ -179,9 +179,9 @@ The same convention is used to layout the information, with a specific highlight
 
 |Scope   	|Name   	|biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI   	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
-|Influenza   	|FLU   	|[bsg-000094]   	|http://www.berkeleybop.org/ontologies/flu.owl   	|BFO   	|BSD license clause 4   	|   	|   	|
-|Malaria   	|IDOMAL   	|[bsg-000104]   	|http://www.berkeleybop.org/ontologies/idomal.owl   	|BFO   	|not available   	|   	|   	|
-|Rare disorder   	|ORDO   	|[bsg-002716]   	|http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip   	|none   	|Attribution-NoDerivs 3.0 Unported   	|   	|   	|
+|Influenza   	|FLU   	|[bsg-000094](https://biosharing.org/biodbcore-000094)   	|http://www.berkeleybop.org/ontologies/flu.owl   	|BFO   	|BSD license clause 4   	|   	|   	|
+|Malaria   	|IDOMAL   	|[bsg-000104](https://biosharing.org/biodbcore-000104)   	|http://www.berkeleybop.org/ontologies/idomal.owl   	|BFO   	|not available   	|   	|   	|
+|Rare disorder   	|ORDO   	|[bsg-002716](https://biosharing.org/biodbcore-002716)   	|http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip   	|none   	|Attribution-NoDerivs 3.0 Unported   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|   	|
 
 #### 4.4.3.3 Pathology and Disease Specific Resources
@@ -195,8 +195,8 @@ Note: This section dedicated to specific disease area will be expanded as eTRIKS
 
 |Scope   	|Name   	|biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI   	|
 |---	|---	|---	|---	|---	|---	|---	|
-|Cell   	|CL   	|[bsg-000009]   	|http://purl.obolibrary.org/obo/cl.owl   	|BFO   	|most probably: CC-by 3.0 Unported Licence   	|https://code.google.com/p/cell-ontology/issues/list   	|
-|Cell Lines   	|CLO   	|[bsg-002627]   	|http://clo-ontology.googlecode.com/svn/trunk/src/ontology/clo.owl   	|BFO   	|most probably: CC-by 3.0 Unported Licence   	|https://code.google.com/p/clo-ontology/issues/list   	|
+|Cell   	|CL   	|[bsg-000009](https://biosharing.org/biodbcore-000009)   	|http://purl.obolibrary.org/obo/cl.owl   	|BFO   	|most probably: CC-by 3.0 Unported Licence   	|https://code.google.com/p/cell-ontology/issues/list   	|
+|Cell Lines   	|CLO   	|[bsg-002627](https://biosharing.org/biodbcore-002627)   	|http://clo-ontology.googlecode.com/svn/trunk/src/ontology/clo.owl   	|BFO   	|most probably: CC-by 3.0 Unported Licence   	|https://code.google.com/p/clo-ontology/issues/list   	|
 |   	|Cellosaurus   	|http://web.expasy.org/cellosaurus/   	|ftp://ftp.expasy.org/databases/cellosaurus   	|None specified   	|None specified   	|   	|
 |Cell Molecular Phenotype Ontology   	|CMPO   	|not available   	|https://github.com/EBISPOT/CMPO/tree/master/release   	|BFO   	|Apache License version 2   	|http://www.ebi.ac.uk/cmpo/submit   	|
 
@@ -212,10 +212,10 @@ The table below highlight semantic resources and complements the table found in 
 |Scope   	|Name   	|biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI   	|Comment   	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
 |Unique Ingredient Identifier   	|UNIII   	|   	|http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/default.htm   	|   	|   	|   	|Use Mandated by FDA for regulatory submissions   	|
-|Chemicals and Small Molecules   	|CHEBI   	|[bsg-000039]   	|http://ftp.ebi.ac.uk/chebi.owl   	|BFO   	|CC-by 3.0 Unported Licence   	|https://github.com/ebi-chebi/ChEBI/issues   	|   	|
-|Drug   	|National Drug File   	|[bsg-002592]  	|http://www.pbm.va.gov/NationalFormulary.asp   	|   	|Mind the terms: https://uts.nlm.nih.gov/license.html   	|   	|   	|
-|Gene Function, Molecular Component, Biological Process   	|GO   	|bsg-000089   	|http://purl.obolibrary.org/obo/go.owl   	|BFO   	|CC-by 4.0 Unported License   	|https://github.com/geneontology/go-ontology/issues/   	|   	|
-|Protein/peptide   	|PRO   	|bsg-000139   	|http://ftp.pir.georgetown.edu/pro.obo   	|BFO   	|CC-by 3.0 Unported Licence   	|http://sourceforge.net/p/pro-obo/term-requests/   	|   	|
+|Chemicals and Small Molecules   	|CHEBI   	|[bsg-000039](https://biosharing.org/biodbcore-000039)   	|http://ftp.ebi.ac.uk/chebi.owl   	|BFO   	|CC-by 3.0 Unported Licence   	|https://github.com/ebi-chebi/ChEBI/issues   	|   	|
+|Drug   	|National Drug File   	|[bsg-002592](https://biosharing.org/biodbcore-002592)  	|http://www.pbm.va.gov/NationalFormulary.asp   	|   	|Mind the terms: https://uts.nlm.nih.gov/license.html   	|   	|   	|
+|Gene Function, Molecular Component, Biological Process   	|GO   	|[bsg-000089](https://biosharing.org/biodbcore-000089)   	|http://purl.obolibrary.org/obo/go.owl   	|BFO   	|CC-by 4.0 Unported License   	|https://github.com/geneontology/go-ontology/issues/   	|   	|
+|Protein/peptide   	|PRO   	|[bsg-000139(https://biosharing.org/biodbcore-000139)   	|http://ftp.pir.georgetown.edu/pro.obo   	|BFO   	|CC-by 3.0 Unported Licence   	|http://sourceforge.net/p/pro-obo/term-requests/   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|   	|
 
 #### 4.4.3.6 Assays and Technologies
@@ -239,7 +239,7 @@ While aware of these tasks being somewhat remote from day to day annotation, it 
 
 |Scope   	|Name   	|Biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI    	|
 |---	|---	|---	|---	|---	|---	|---	|
-|Relations   	|RO   	|[bsg-000144]()   	|http://purl.obolibrary.org/obo/ro.owl   	|BFO   	|Creative Commons 3.0 BY   	|https://github.com/oborel/obo-relations/issues   	|
+|Relations   	|RO   	|[bsg-000144](https://biosharing.org/biodbcore-000144)   	|http://purl.obolibrary.org/obo/ro.owl   	|BFO   	|Creative Commons 3.0 BY   	|https://github.com/oborel/obo-relations/issues   	|
 
 
 ### 4.4.4 Brokering Requests for New Terms
