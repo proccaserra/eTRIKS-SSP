@@ -291,6 +291,8 @@ The following table presents key reporting guidelines, exchange formats and term
 
 
 -----------
-<a name="myfootnote38">38</a>: "Business Case for Standards | CDISC." 2010. 22 Jun. 2015 (http://www.cdisc.org/business-case)
+<a name="myfootnote38">38</a>: "Business Case for Standards  CDISC." 2010. 22 Jun. 2015 (http://www.cdisc.org/business-case)
+
 <a name="myfootnote39">39</a>: Lehmann, Sabine et al. "Standard preanalytical coding for biospecimens: Review and implementation of the Sample PREanalytical Code (SPREC)." Biopreservation and biobanking 10.4 (2012): 366-374.
+
 <a name="myfootnote40">40</a>: "A sea of standards for -omics ('genomics,' 'proteomics' or ..." 2014. 8 Jun. 2015 (https://crowdcell.wordpress.com/2014/03/22/a-sea-of-standards-for-omics-data-sink-or-swim/)
