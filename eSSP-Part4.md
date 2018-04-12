@@ -16,10 +16,7 @@ The CDISC suite of data standards have been designed to support various stages o
   - Writing post study clinical reports
   - Submission of trial summary info to regulators
   - Machine readable search elements
-  - Avoid poor study designs and further costs and/or study re-runs.|Planning   	|
-
-
-|---	|---	|---	|
+  - Avoid poor study designs and further costs and/or study re-runs.	|Planning   	|
 |Clinical Data Acquisition Standards Harmonization (CDASH) http://www.cdisc.org/cdash |Clinical Data Acquisition Standards Harmonization is a specification data collection domains and variables for Case Report Form (CRF) data with standard question text, implementation guidelines, and best practices.   	|Planning/Data Collection   	|
 |Laboratory Data Model (LAB) http://www.cdisc.org/lab 	|Specification describing standard content for the acquisition and interchange of clinical laboratory data between central labs and sponsors or contract research organizations (CROs). Vocabulary standard that facilitates exchange of clinical trial laboratory data between central laboratories and study sponsors, CROs or EDC vendors.    	|Planning/Data Collection 	|
 |Study Data Tabulation Model (SDTM) http://www.cdisc.org/sdtm   	|Study Data Tabulation Model (SDTM) is the general model for representing study tabulation data used in clinical research. The SDTM Implementation Guide (IG) describes domains and variables for data from Human Clinical Trials for Drug Products and Biologics. SDTM is the standard for data tabulations from CRF data from multiple sites for a clinical study; it is the preferred method for providing data to the FDA for regulatory review. Collecting data in CDASH format can eliminate the need to map data to SDTM at the end of the clinical study process. Efficacy domains are in progress and are defined in the SDTM IG, as well as many described and available in the related Therapeutic Area User Guides.  SDTM model and its implementation guidelines 3.2 highlight new specific finding domains: extensions for microbiology specimen, microbiology susceptibility and pharmacogenomics data.   	|Data Tabulation / Preparation to Preservation (and Regulatory Submission if needed)   	|
