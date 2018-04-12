@@ -5,13 +5,12 @@ As recommended by the eTRIKS Standards Advisory Board (as of January 28th, 2014)
 
 eTRIKS goal is to make recommendations of which standards should be used and in which domain. eTRIKS will demonstrate the benefits and applicability of the adoption of standards using practical examples of real use cases with supported projects. Over time, the goal is to track the use and adoption of said standards using simple metrics, such as how many times they have been used in projects and how good the coverage was for the projects supported.
 
-Where practical the following criteria are used to assess whether to adopt a standard, and which one where competing standards exists.
+Where practical the following criteria are used to assess whether to adopt a standard, and which one where competing standards exists.
 
 ## 2.2 Attributes of standards
 
 Following is a list of attributes and criteria for selecting a standard suitable for use by eTRIKS.
 
-|   	|   	|
 |---	|---	|
 |Coverage:   	|The standard addresses the domain with a sufficient number of concepts, term sets and metadata elements to meet the user's needs.   	|
 |Depth and Breadth:   	|The standard delivers at an adequate granularity level to address  users needs and describing a study domain with accurate terms.   	|
@@ -66,7 +65,7 @@ Two types of gaps in coverage can be found:
 In such a situation, study owners are aware of not only an eTRIKS-approved standard covering the domain of interest, but also a shortage of descriptors and values to accurately annotate their dataset. The central point here is the following: any eTRIKS recommended standard should provide a flexible framework supporting user defined extensions. In CDISC SDTM or SEND standards, the Supplemental Qualifiers special purpose dataset model may be used to capture non-standard variables and their association to parent records in general-observation-class datasets (Events, Findings, Interventions) and Demographics (more on this topic in SDTM Implementation Guide Section 8.4.2)<sup>[26](#myfootnote26)</sup> . However, those should only be used if no coverage can be achieved by other more precise means available through CDISC domains. So CDISC documentation and training material should be consulted <sup>[27](#myfootnote27)</sup>.
 
 ### 2.4.2 Coverage gap in a domain not covered by standards
-	This is often the case when new technologies emerge, when understanding of the error models is lacking and when field maturity is an issue making it difficult to standardize. The best advice in such a situation is to attempt to recycle existing module, principles in data management. The CDISC SDTM-Implementation Guide describes the overall process for creating a custom domain, which must be based on one of the three SDTM general observation classes. A custom domain may only be created if the data are different in nature and do not fit into an existing published domain.	
+This is often the case when new technologies emerge, when understanding of the error models is lacking and when field maturity is an issue making it difficult to standardize. The best advice in such a situation is to attempt to recycle existing module, principles in data management. The CDISC SDTM-Implementation Guide describes the overall process for creating a custom domain, which must be based on one of the three SDTM general observation classes. A custom domain may only be created if the data are different in nature and do not fit into an existing published domain.	
 Finally, direct contribution to standardization efforts could be made by joining development groups of SDOs or community efforts. When appropriate, a submission of a new CV term may also be logged to the relevant resources. To this end, the tables below supporting this document identify the respective issue trackers associated with each of the semantic artefacts. 
 
 For each, eTRIKS WP3 members will outline procedures intended to guide eTRIKS users in dealing with the situation in a principled manner. The main goal is to ensure request coordination and brokering by eTRIKS members and limit duplication and redundant efforts.
