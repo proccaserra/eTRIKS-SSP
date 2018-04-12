@@ -139,26 +139,26 @@ As part of this iterative process, the eTRIKS use cases and query cases will be 
 #### 4.4.2.2 Selection Criteria
 A set of widely accepted criteria for selecting terminologies (or other reporting standards) do not exists. However, the initial work by the Clinical and Translational Science Awards’ (CTSA)<sup>[40](#myfootnote40)</sup> Omics Data Standards Working Group and BioSharing has been used as starting point to define the eTRIKS criteria for selecting a terminology resource.
 
-  -Exclusion criteria:
-    -absent licence or term of use (indicator of usability)
-    -licences or terms of use with restrictions on redistribution and reuse (avoiding any reuse restriction for non-profit organisations)
-    -absence of sufficient class metadata (indicator of quality, for instance absence of term definition or absence of synonyms)
-    -absence of sustainability indicators nor sustainability of the organisation taking care of the resource 
-    -absence of term definitions 
-  -Inclusion criteria:
-    -scope and coverage meets the requirement of the concept identified by eTRIKS as priority target of harmonization (See Starter Pack document point 6.2.a)
-    -unique URI, textual definition and IDs for each term
-    -resources releases are versioned
-    -size of resource (indicator of coverage)
-    -number of classes and subclasses (indicator of depth)
-    -number of terms having definitions and synonyms (indicator of richness)
-    -presence of an help desk and contact point (indicator of community support) 
-    -presence of term submission tracker / issue tracker (indicator of resource agility and capability to grow upon request)
-    -potential integrative nature of the resource by the provision of intra- and cross domain concepts and references (as indicator of translational application potential)
-    -licensing information available (as indicator of freedom to use)
-    -use of top level ontology (as indicator of a resource built for generic use)
-    -pragmatism (as indicator of actual, current real life practice)
-    -possibility of collaborating with eTRIKS: eTRIKS commit to “stamp” it as “recommended by eTRIKS” and be a portal for receiving users’ complaints/remarks that aim to fix or improve the terminology, while the resource organisation commits to fix or improve the terminology in brief delays (to be determined with the collaborating SDO)
+  - Exclusion criteria:
+    - absent licence or term of use (indicator of usability)
+    - licences or terms of use with restrictions on redistribution and reuse (avoiding any reuse restriction for non-profit organisations)
+    - absence of sufficient class metadata (indicator of quality, for instance absence of term definition or absence of synonyms)
+    - absence of sustainability indicators nor sustainability of the organisation taking care of the resource 
+    - absence of term definitions 
+  - Inclusion criteria:
+    - scope and coverage meets the requirement of the concept identified by eTRIKS as priority target of harmonization (See Starter Pack document point 6.2.a)
+    - unique URI, textual definition and IDs for each term
+    - resources releases are versioned
+    - size of resource (indicator of coverage)
+    - number of classes and subclasses (indicator of depth)
+    - number of terms having definitions and synonyms (indicator of richness)
+    - presence of an help desk and contact point (indicator of community support) 
+    - presence of term submission tracker / issue tracker (indicator of resource agility and capability to grow upon request)
+    - potential integrative nature of the resource by the provision of intra- and cross domain concepts and references (as indicator of translational application potential)
+    - licensing information available (as indicator of freedom to use)
+    - use of top level ontology (as indicator of a resource built for generic use)
+    - pragmatism (as indicator of actual, current real life practice)
+    - possibility of collaborating with eTRIKS: eTRIKS commit to “stamp” it as “recommended by eTRIKS” and be a portal for receiving users’ complaints/remarks that aim to fix or improve the terminology, while the resource organisation commits to fix or improve the terminology in brief delays (to be determined with the collaborating SDO)
 
 ### 4.4.3 Initial set of Core Terminologies
 The terminologies have been organized by theme and scope. When possible, sections are organized in progression, from macroscopic scale (organism) to microscopic scale (molecular entities), and from general/generic (e. g. disease) to specialized/specific (e. g. infectious disease).
@@ -235,7 +235,7 @@ This section covers more advanced use cases of curation and annotation users may
 A few resource formally define relations, defining them in terms of domain and range, thus allowing input validation and reasoning. 
 While aware of these tasks being somewhat remote from day to day annotation, it is important to be familiar with the relational and semantic underpinnings of a number of terminology artefacts recommended or mentioned in the present documents.  The entry below identifies one such important resource.
 
-|scope   	|Name   	|Biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI    	|
+|Scope   	|Name   	|Biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI    	|
 |---	|---	|---	|---	|---	|---	|---	|
 |Relations   	|RO   	|[bsg-000144]()   	|http://purl.obolibrary.org/obo/ro.owl   	|BFO   	|Creative Commons 3.0 BY   	|https://github.com/oborel/obo-relations/issues   	|
 
