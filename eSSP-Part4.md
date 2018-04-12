@@ -71,29 +71,27 @@ If the submitters elect to follow eTRIKS advice, they will facilitate the curati
 
 Free text terms can not be entirely avoided but controlled terminologies should always be prefered as used more efficiently by search and indexing software agents.  In the absence of reliable or affordable natural language processing tools, enforcing controlled terms is a step to facilitate data integration.
 
-	#### 4.3.1.1 Identification of Molecular Entities when reporting ‘omics’ data
+#### 4.3.1.1 Identification of Molecular Entities when reporting ‘omics’ data
 
 The following resources are recommended for tagging or linking entities of interest to database records. eTRIKS recommends using those resources and curation may be applied to align submission on those recommendations. We remind here that the purpose is to ensure annotation consistency, improve query recall and facilitate translational research use cases.
 
 
 | Molecular Entity  	|Resource Name   	|Biosharing identifier   	|Resource URI   	|Resource Identifier pattern   	|Comment   	|
 |---	|---	|---	|---	|---	|---	|
-|Small Molecules   	|   	|   	|   	|   	|   	|
+|**Small Molecules**   	|   	|   	|   	|   	|   	|
 |Metabolites   	|Pubchem   	|biodbcore-000455   	|http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=$id   	|$id=^\d+$   	|   	|
 |   	|CHEBI   	|bsg-000039   	|http://www.ebi.ac.uk/chebi/searchId.do?chebiId=$id   	|$id=^CHEBI:\d+$   	|   	|
 |Lipids   	|Lipid Maps   	|biodbcore-000559   	|http://www.lipidmaps.org/data/get_lm_lipids_dbgif.php?LM_ID=$id   	|$id=^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$   	|   	|
 |Drugs   	|DrugBank   	|biodbcore-000304   	|http://www.drugbank.ca/drugs/$id   	|$id=^DB\d{5}$   	|   	|
 |   	|WHOdrug (*)   	|Not available   	|http://www.umc-products.com/DynPage.aspx?id=73588&mn1=1107&mn2=1139   	|   	|(*)WHOdrug is not freely available and its cost can be a major limitation for academic institutions.   	|
-|Biopolymer   	|   	|   	|   	|   	|   	|
+|**Biopolymer**   	|   	|   	|   	|   	|   	|
 |DNA   	|ensEMBL gene   	|biodbcore-000330   	|http://www.ensembl.org/   	|$id=ENSG\d+$   	|   	|
 |   	|Entrez Gene (aka NCBI Gene)   	|biodbcore-000449   	|http://www.ncbi.nlm.nih.gov/gene/$id   	|$id=^\d+$   	|   	|
 |messenger RNA   	|ensEMBL transcript   	|biodbcore-000330   	|http://www.ensembl.org/   	|$id=ENST\d+$   	|   	|
 |microRNA   	|mirbase   	|biodbcore-000569   	|http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc=$id   	|$id=MI\d{7}   	|   	|
 |Protein   	|Uniprot   	|biodbcore-000544   	|http://www.uniprot.org   	|$id=^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$   	|   	|
 |DNA variant (**)   	|   	|   	|   	|   	|   	|
-|SNP   	|NCBI dbSNP   	|biodbcore-000438   	|http://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=$id   	|$id=^rs\d+$   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/)
-(used by CDISC PGX extension)
-   	|
+|SNP   	|NCBI dbSNP   	|biodbcore-000438   	|http://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=$id   	|$id=^rs\d+$   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/) (used by CDISC PGX extension)   	|
 |Structural Variation   	|NCBI ClinVar   	|biodbcore-000739   	|http://www.ncbi.nlm.nih.gov/clinvar/   	|   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/) (used by CDISC PGX extension)   	|
 
 
@@ -121,5 +119,5 @@ In March 2016, the United States Foods and Drug Administration, in collaboration
 
 |Entity   	|Resource Name   	|Biosharing identifier   	|Resource URI   	|Resource Identifier pattern  	|
 |---	|---	|---	|---	|---  	|
-|Medical Device   	|GUDID  	|biodbcore-000748  	|https://accessgudid.nlm.nih.gov/devices/search?query=$id  	|$id=^\d+{14}$ 	|
+|Medical Device   	|GUDID  	|[biodbcore-000748](https://biosharing.org/biodbcore-000748)  	|https://accessgudid.nlm.nih.gov/devices/search?query=$id  	|$id=^\d+{14}$ 	|
 
