@@ -93,6 +93,6 @@ Right pane: 2 views of a CDISC SDTM based TransMART master tree data explorer.  
 
 ----------------
 
-[image A]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "image A"
+[image A]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-Roadmap.png  "image A"
 [image B]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-FAIRsharing.png "image B"
-[image C]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "image C"
+[image C]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-TransMART-MasterTree.png "image C"
