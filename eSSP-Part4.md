@@ -242,16 +242,19 @@ While aware of these tasks being somewhat remote from day to day annotation, it 
 
 ### 4.4.4 Brokering Requests for New Terms
 When a term or set of terms are not present in the terminology resources identified, WP3 will act as a broker to ensure the request is submitted to the appropriate resource. To facilitate this, WPs recommends user to submitting a term request using the following templates:
-single term request:
+  - single term request:
 logon to git.etriks.org with your eTRIKS LDAP credentials and register an issue at https://git.etriks.org/dashboard/issues
 tagging it with ‘Terminology’ label
 with the following fields supplied:
-Term Name: 
-Term synonyms: 
-Term textual definition:
-Term bibliographic evidence:
-Term submitter identification (name, institution,email):
-Resource targeted for term request:
+    - Term Name: 
+    - Term synonyms: 
+    - Term textual definition:
+    - Term bibliographic evidence:
+    - Term submitter identification (name, institution,email):
+    - Resource targeted for term request:
+
+
+![alt text][image 1]
 
 The eTRIKS Standards team will be notified of the request upon submission.
 
@@ -299,3 +302,6 @@ The following table presents key reporting guidelines, exchange formats and term
 <a name="myfootnote39">39</a>: Lehmann, Sabine et al. "Standard preanalytical coding for biospecimens: Review and implementation of the Sample PREanalytical Code (SPREC)." Biopreservation and biobanking 10.4 (2012): 366-374.
 
 <a name="myfootnote40">40</a>: "A sea of standards for -omics ('genomics,' 'proteomics' or ..." 2014. 8 Jun. 2015 (https://crowdcell.wordpress.com/2014/03/22/a-sea-of-standards-for-omics-data-sink-or-swim/)
+
+
+[image 1]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-EHS-MDR.png "image 1"
