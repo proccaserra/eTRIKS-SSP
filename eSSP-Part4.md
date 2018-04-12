@@ -55,7 +55,7 @@ The guidelines, which start to gain momentum in the biobanking initiatives, defi
 
 |CDISC Standards	|Uses/Value   	|
 |---	|---	|
-|Investigation Study Assay http://.isatab.sf.net 		|‘Investigation’ (the overall project context which may group several studies), ‘Study’ (a defined research experiment why may use several different types of assays) and ‘Assay’ (sets of data acquisition events) Tabular format is a meta-format, built purposefully to  manage diverse set of life science, environmental and biomedical experiments employing one or a combination of functional genomics technologies while ensuring data deposition to various key omic data repositories.   	|
+|Investigation Study Assay http://isatab.sf.net 	|‘Investigation’ (the overall project context which may group several studies), ‘Study’ (a defined research experiment why may use several different types of assays) and ‘Assay’ (sets of data acquisition events) Tabular format is a meta-format, built purposefully to  manage diverse set of life science, environmental and biomedical experiments employing one or a combination of functional genomics technologies while ensuring data deposition to various key omic data repositories.   	|
 |Primary Data Format for Omics	|The following link provides a complete overview of the existing format specifications available to support individual ‘omic like type of data. Section 4.5 eTRIKS-WP3-Standard-Starter-Pack-Recommandations-Exchange-Format-for-Omics	|
 
 
