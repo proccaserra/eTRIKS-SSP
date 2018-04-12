@@ -80,11 +80,14 @@ Right pane: 2 views of a CDISC SDTM based TransMART master tree data explorer.  
 [FIGURE]
 
 
-
+-----------------
 
 <a name="myfootnote44">44</a>: "Home - The Cancer Genome Atlas - Cancer Genome - TCGA." 2005. 8 Jun. 2015 (http://cancergenome.nih.gov/)
+
 <a name="myfootnote45">45</a>: "Gene Ontology Consortium." 2002. 8 Jun. 2015 (http://geneontology.org/)
+
 <a name="myfootnote46">46</a>: "The Human Phenotype Ontology." 2008. 8 Jun. 2015 (http://www.human-phenotype-ontology.org/)
+
 <a name="myfootnote47">47</a>: "Experimental Factor Ontology - EMBL-EBI." 2009. 8 Jun. 2015 (http://www.ebi.ac.uk/efo)
 
 
