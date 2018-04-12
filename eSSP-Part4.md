@@ -235,9 +235,9 @@ This section covers more advanced use cases of curation and annotation users may
 A few resource formally define relations, defining them in terms of domain and range, thus allowing input validation and reasoning. 
 While aware of these tasks being somewhat remote from day to day annotation, it is important to be familiar with the relational and semantic underpinnings of a number of terminology artefacts recommended or mentioned in the present documents.  The entry below identifies one such important resource.
 
-|   	|   	|   	|   	|   	|   	|   	|
+|scope   	|Name   	|Biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI    	|
 |---	|---	|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|   	|   	|
+|Relations   	|RO   	|[bsg-000144]()   	|http://purl.obolibrary.org/obo/ro.owl   	|BFO   	|Creative Commons 3.0 BY   	|https://github.com/oborel/obo-relations/issues   	|
 
 
 ### 4.4.4 Brokering Requests for New Terms
@@ -264,12 +264,15 @@ Batch class definition could be carried out using Ontomaton Google App in Google
 #### 4.4.5.1 Content and Browsing Resources
 The following terminologies portals allow browsing the resources and, in few cases, also offer useful annotation functionalities when implementing the eTRIKS terminologies in eTRIKS WP2 and WP4 activities and tools.
 
-|   	|   	|   	|   	|   	|
+|Name   	|URL web interface   	|Supported Format   	|Programmatic Access   	|License   	|
 |---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+|NCBO Bioportal   	|http://bioportal.bioontology.org   	|OWL,OBO,RRF   	| yes  	|Most of it is under BSD license, parts of it is under the Eclipse Public License   	|
+|EBI OLS   	|http://www.ebi.ac.uk/ontology-lookup/   	|OBO   	|yes   	|Apache License, Version 2.0   	|
+|NCI EVS   	|http://evs.nci.nih.gov   	|OWL, RRF   	|yes   	| not known  	|
+|CDISC SHARE   	|http://cdisc.org/cdisc-share   	|Excel,XML, RDF,OWL   	|all documents (PDF, XML, OWL can be made available for download)   	|not known   	|
+|Ontobee   	|http://www.ontobee.org   	|OWL   	|yes   	|Apache License, Version 2.0   	|
+|LOV   	|http://lov.okfn.org/dataset/lov/   	|RDF   	|yes   	|CC-by 3.0 Unported Licence   	|
+
 
 
 #### 4.4.5.2 Tools and APIs
