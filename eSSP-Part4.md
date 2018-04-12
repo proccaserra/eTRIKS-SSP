@@ -79,20 +79,20 @@ The following resources are recommended for tagging or linking entities of inter
 | Molecular Entity  	|Resource Name   	|Biosharing identifier   	|Resource URI   	|Resource Identifier pattern   	|Comment   	|
 |---	|---	|---	|---	|---	|---	|
 |**Small Molecules**   	|   	|   	|   	|   	|   	|
-|Metabolites   	|Pubchem   	|biodbcore-000455   	|http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=$id   	|$id=^\d+$   	|   	|
+|Metabolites   	|Pubchem   	|[biodbcore-000455](https://biosharing.org/biodbcore-000455)  	|http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=$id   	|$id=^\d+$   	|   	|
 |   	|CHEBI   	|bsg-000039   	|http://www.ebi.ac.uk/chebi/searchId.do?chebiId=$id   	|$id=^CHEBI:\d+$   	|   	|
-|Lipids   	|Lipid Maps   	|biodbcore-000559   	|http://www.lipidmaps.org/data/get_lm_lipids_dbgif.php?LM_ID=$id   	|$id=^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$   	|   	|
-|Drugs   	|DrugBank   	|biodbcore-000304   	|http://www.drugbank.ca/drugs/$id   	|$id=^DB\d{5}$   	|   	|
+|Lipids   	|Lipid Maps   	|[biodbcore-000559](https://biosharing.org/biodbcore-000559)   	|http://www.lipidmaps.org/data/get_lm_lipids_dbgif.php?LM_ID=$id   	|$id=^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$   	|   	|
+|Drugs   	|DrugBank   	|[biodbcore-000304](https://biosharing.org/biodbcore-000304)   	|http://www.drugbank.ca/drugs/$id   	|$id=^DB\d{5}$   	|   	|
 |   	|WHOdrug (*)   	|Not available   	|http://www.umc-products.com/DynPage.aspx?id=73588&mn1=1107&mn2=1139   	|   	|(*)WHOdrug is not freely available and its cost can be a major limitation for academic institutions.   	|
 |**Biopolymer**   	|   	|   	|   	|   	|   	|
-|DNA   	|ensEMBL gene   	|biodbcore-000330   	|http://www.ensembl.org/   	|$id=ENSG\d+$   	|   	|
-|   	|Entrez Gene (aka NCBI Gene)   	|biodbcore-000449   	|http://www.ncbi.nlm.nih.gov/gene/$id   	|$id=^\d+$   	|   	|
-|messenger RNA   	|ensEMBL transcript   	|biodbcore-000330   	|http://www.ensembl.org/   	|$id=ENST\d+$   	|   	|
-|microRNA   	|mirbase   	|biodbcore-000569   	|http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc=$id   	|$id=MI\d{7}   	|   	|
-|Protein   	|Uniprot   	|biodbcore-000544   	|http://www.uniprot.org   	|$id=^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$   	|   	|
-|DNA variant (**)   	|   	|   	|   	|   	|   	|
-|SNP   	|NCBI dbSNP   	|biodbcore-000438   	|http://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=$id   	|$id=^rs\d+$   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/) (used by CDISC PGX extension)   	|
-|Structural Variation   	|NCBI ClinVar   	|biodbcore-000739   	|http://www.ncbi.nlm.nih.gov/clinvar/   	|   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/) (used by CDISC PGX extension)   	|
+|DNA   	|ensEMBL gene   	|[biodbcore-000330](https://biosharing.org/biodbcore-000330)   	|http://www.ensembl.org/   	|$id=ENSG\d+$   	|   	|
+|   	|Entrez Gene (aka NCBI Gene)   	|[biodbcore-000449](https://biosharing.org/biodbcore-000449)   	|http://www.ncbi.nlm.nih.gov/gene/$id   	|$id=^\d+$   	|   	|
+|messenger RNA   	|ensEMBL transcript   	|[biodbcore-000330](https://biosharing.org/biodbcore-000330)   	|http://www.ensembl.org/   	|$id=ENST\d+$   	|   	|
+|microRNA   	|mirbase   	|[biodbcore-000569](https://biosharing.org/biodbcore-000569)   	|http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc=$id   	|$id=MI\d{7}   	|   	|
+|Protein   	|Uniprot   	|[biodbcore-000544](https://biosharing.org/biodbcore-000544)   	|http://www.uniprot.org   	|$id=^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$   	|   	|
+|**DNA variant (**)**   	|   	|   	|   	|   	|   	|
+|SNP   	|NCBI dbSNP   	|[biodbcore-000438](https://biosharing.org/biodbcore-000438)   	|http://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=$id   	|$id=^rs\d+$   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/) (used by CDISC PGX extension)   	|
+|Structural Variation   	|NCBI ClinVar   	|[biodbcore-000739](https://biosharing.org/biodbcore-000739)   	|http://www.ncbi.nlm.nih.gov/clinvar/   	|   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/) (used by CDISC PGX extension)   	|
 
 
 (NOTE) Consider Locus Reference Genomic (LRG)-sequences now or in the future (more information at: http://www.lrg-sequence.org/faq#faq_1)
@@ -105,9 +105,9 @@ The table below lists major resources to be aware of when describing in-vitro ba
 
 |Molecular Entity   	|Resource Name   	|Biosharing identifier   	|Resource URI   	|Resource Identifier pattern  	|
 |---	|---	|---	|---	|---  	|
-|antibodies   	|antibody-registry  	|biodbcore-000182   	|http://antibodyregistry.org/AB_$id   	|$id=^\d+{6}$  	|
-|Plasmids and vectors   	|addgene   	|biodbcore-000196   	|www.addgene.org/$id   	|$id=^’\d+$  	|
-|cell lines   	|ATCC   	|biodbcore-000210   	|http://www.lgcstandards-atcc.org/Products/All/$id.aspx    	|$id=^’\d+$  	|
+|antibodies   	|antibody-registry  	|[biodbcore-000182](https://biosharing.org/biodbcore-000182)  	|http://antibodyregistry.org/AB_$id   	|$id=^\d+{6}$  	|
+|Plasmids and vectors   	|addgene   	|[biodbcore-000196](https://biosharing.org/biodbcore-000196)   	|www.addgene.org/$id   	|$id=^’\d+$  	|
+|cell lines   	|ATCC   	|[biodbcore-000210](https://biosharing.org/biodbcore-000210)   	|http://www.lgcstandards-atcc.org/Products/All/$id.aspx    	|$id=^’\d+$  	|
 
 
 
