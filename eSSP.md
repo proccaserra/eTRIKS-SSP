@@ -1,9 +1,9 @@
 # A Business Case for Standards in eTRIKS
 
 
-**IMI eTRIKS project**<sup>[1](#myfootnote1)</sup> has released a set of documents aimed at project leaders and data managers alike to provide guidance and recommendations as to which standardization efforts may be relevant to them. The work carried out by eTRIKS is meant to be made available to all IMI projects to raise awareness as well as to gain input from specific fields of translational research  and further development and refinement of data standards. Furthermore, eTRIKS aims to provide regular updates and releases, to incorporate additions and follow-ups on technology evolution and progress in standardization initiatives. eTRIKS information feeds (mailing list, website) will be used to relay these updates.
+**IMI eTRIKS project**<sup>[1](#myfootnote1)</sup> has released a set of documents aimed at project leaders and data managers alike to provide guidance and recommendations as to which standardization efforts may be relevant to them. The work carried out by eTRIKS is meant to be made available to all IMI projects<sup>[2](#myfootnote2)</sup>  to raise awareness as well as to gain input from specific fields of translational research  and further development and refinement of data standards. Furthermore, eTRIKS aims to provide regular updates and releases, to incorporate additions and follow-ups on technology evolution and progress in standardization initiatives. eTRIKS information feeds (mailing list, website) will be used to relay these updates.
 
-Data standards play an important role in managing and handling research data. On the one hand, regulatory agencies are increasingly mandating data standards for the submission of clinical research data and data sharing -. On the other hand, data standards encourage the use of integrated metadata, which provides a solid foundation for systematically discovering, retrieving, understanding, integrating, disseminating, exchanging and reusing research data.
+Data standards play an important role in managing and handling research data. On the one hand, regulatory agencies are increasingly mandating data standards for the submission of clinical research data and data sharing <sup>[3](#myfootnote3)</sup>-<sup>[4](#myfootnote4)</sup>  . On the other hand, data standards encourage the use of integrated metadata, which provides a solid foundation for systematically discovering, retrieving, understanding, integrating, disseminating, exchanging and reusing research data.
 
 Annotation resources such as MIAME guidelines or the Gene Ontology controlled vocabularies have become essential resources in modern molecular biology and computational biology. By defining how information is structured and what information is reported, standards, such as CDISC or ISA, make it easier to access, distribute, disseminate and exchange information. They also allow scientific scrutiny to be exerted, a central activity in the life of scientists. There should be no barrier to data assessment and all stakeholders of the scientific endeavour must embrace efforts aiming at enhancing access to information so it can be efficiently mined, analyzed and exploited. 	
 
@@ -74,4 +74,11 @@ Standards are developed to increase data interoperability, reproducibility, reus
 
 
 <a name="myfootnote1">1</a>: "What is eTRIKS..." 2012. 6 Jun. 2015  (http://www.etriks.org/)
+<a name="myfootnote2">2</a>: "Innovative Medicines Initiative: Home | IMI." 2007. 6 Jun. 2015 <http://www.imi.europa.eu/>
+<a name="myfootnote3">3</a>: "NIH Data Sharing Policy - National Institutes of Health." 2002. 6 Jun. 2015 <http://grants.nih.gov/grants/policy/data_sharing/>
+<a name="myfootnote4">4</a>: "An essential guide to open access for Wellcome Trust ..." 2011. 8 Jun. 2015 <http://www.wellcome.ac.uk/stellent/groups/corporatesite/@policy_communications/documents/web_document/WTVM050569.pdf>
+<a name="myfootnote5">5</a>: Brazma, Alvis et al. "Minimum information about a microarray experiment (MIAME)—toward standards for microarray data." Nature genetics 29.4 (2001): 365-371.
+<a name="myfootnote6">6</a>: Ashburner, Michael et al. "Gene Ontology: tool for the unification of biology." Nature genetics 25.1 (2000): 25-29.
+<a name="myfootnote7">7</a>: "CDISC | Strength Through Collaboration." 6 Jun. 2015 <http://www.cdisc.org/>
+<a name="myfootnote8">8</a>: "ISA Tools." 2005. 6 Jun. 2015 <http://www.isa-tools.org/>
 
