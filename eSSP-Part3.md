@@ -31,9 +31,9 @@ The use of standards relies on the principles and basic rules of good annotation
 3. Numerical values are converted in the International System (SI) of units<sup>[35](#myfootnote35)</sup>  while retaining the original values (principle of data provenance).
 4. Derived data are collected with their primary data and algorithm or methodology used for the data derivation (principle of data provenance).
 5. All measurements and observations obey to the principle of data provenance and are associated with the following concepts that answer the What, the Who, the When, the Where, the How and the Why:
-  - What organization and/or individual perform them?
-  - In what study class have they been performed?
-  - For clinical studies, at what study activity identifier (ID) have they been performed?
+    - What organization and/or individual perform them?
+    - In what study class have they been performed?
+    - For clinical studies, at what study activity identifier (ID) have they been performed?
   - Where (i.e. geographic location) have they been performed? 
   - From what subject ID have they been performed?
   - From what specimen ID or part of the subject have they been performed?
