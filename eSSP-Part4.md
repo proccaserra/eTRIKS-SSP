@@ -45,3 +45,86 @@ The guidelines, which start to gain momentum in the biobanking initiatives, defi
 ## 4.2 eTRIKS - Recommendations for Exchange Format for Non-Clinical Studies (Animal and in-vitro Studies)
 
 ### 4.2.1 CDISC Standards for non-clinical studies
+
+
+|CDISC Standards	|Uses/Value   	|
+|---	|---	|
+|Laboratory Data Model (LAB) http://www.cdisc.org/lab	|Vocabulary standard that facilitates exchange of clinical trial laboratory data between central laboratories and study sponsors, CROs or EDC vendors. The LAB model has an extension for microbiology and extensions for pharmacogenomics data.   	|
+|Standard for the Exchange of non-Clinical Data (SEND) http://www.cdisc.org/send	|An extension of SDTM specifically developed for preclinical or non-clinical studies, e.g. toxicology.  	|
+|Controlled Terminology http://www.cdisc.org/terminology	|The controlled standard vocabulary and code sets for all of the CDISC models/standards; maintained openly and freely by NCI Enterprise Vocabulary Services (EVS).  	|
+|Glossary http://www.cdisc.org/cdisc-glossary 	|The CDISC dictionary of terms and their definitions related to the CDISC mission. Abbreviations and Acronyms also included.   	|
+
+
+### 4.2.2 Non-Regulatory Standards for Research  Studies
+
+
+|CDISC Standards	|Uses/Value   	|
+|---	|---	|
+|Investigation Study Assay http://.isatab.sf.net 		|‘Investigation’ (the overall project context which may group several studies), ‘Study’ (a defined research experiment why may use several different types of assays) and ‘Assay’ (sets of data acquisition events) Tabular format is a meta-format, built purposefully to  manage diverse set of life science, environmental and biomedical experiments employing one or a combination of functional genomics technologies while ensuring data deposition to various key omic data repositories.   	|
+|Primary Data Format for Omics	|The following link provides a complete overview of the existing format specifications available to support individual ‘omic like type of data. Section 4.5 eTRIKS-WP3-Standard-Starter-Pack-Recommandations-Exchange-Format-for-Omics	|
+
+
+## 4.3 eTRIKS - WP3 - Standard Starter Pack Recommendations for Database Resource Identification
+
+### 4.3.1 Resource Identification:
+This is an integral part of the recommendations. Free text should be limited whenever possible and controlled metadata elements should be supplied instead, alongside with their  associated identifier, the associated authority issuing it, without forgetting indicating the version of the database or semantic resource used.
+The following section and specific documents will identify resources eTRIKS encourages submitters to rely on when preparing their submission in the case of retrospectives studies, or when planning data collection in the case of prospective studies.
+If the submitters elect to follow eTRIKS advice, they will facilitate the curation tasks and speed up loading in the relevant tool while reducing operational cost. Should the submitters favour relying on resources outside those specified by eTRIKS, adherence to the resource identification requirements will be of help, leading to easier and more efficient mapping as eTRIKS curation team will be able to take advantage of mapping resources. 
+
+Free text terms can not be entirely avoided but controlled terminologies should always be prefered as used more efficiently by search and indexing software agents.  In the absence of reliable or affordable natural language processing tools, enforcing controlled terms is a step to facilitate data integration.
+
+	#### 4.3.1.1 Identification of Molecular Entities when reporting ‘omics’ data
+
+The following resources are recommended for tagging or linking entities of interest to database records. eTRIKS recommends using those resources and curation may be applied to align submission on those recommendations. We remind here that the purpose is to ensure annotation consistency, improve query recall and facilitate translational research use cases.
+
+
+| Molecular Entity  	|Resource Name   	|Biosharing identifier   	|Resource URI   	|Resource Identifier pattern   	|Comment   	|
+|---	|---	|---	|---	|---	|---	|
+|Small Molecules   	|   	|   	|   	|   	|   	|
+|Metabolites   	|Pubchem   	|biodbcore-000455   	|http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=$id   	|$id=^\d+$   	|   	|
+|   	|CHEBI   	|bsg-000039   	|http://www.ebi.ac.uk/chebi/searchId.do?chebiId=$id   	|$id=^CHEBI:\d+$   	|   	|
+|Lipids   	|Lipid Maps   	|biodbcore-000559   	|http://www.lipidmaps.org/data/get_lm_lipids_dbgif.php?LM_ID=$id   	|$id=^LM(FA|GL|GP|SP|ST|PR|SL|PK)[0-9]{4}([0-9a-zA-Z]{4,6})?$   	|   	|
+|Drugs   	|DrugBank   	|biodbcore-000304   	|http://www.drugbank.ca/drugs/$id   	|$id=^DB\d{5}$   	|   	|
+|   	|WHOdrug (*)   	|Not available   	|http://www.umc-products.com/DynPage.aspx?id=73588&mn1=1107&mn2=1139   	|   	|(*)WHOdrug is not freely available and its cost can be a major limitation for academic institutions.   	|
+|Biopolymer   	|   	|   	|   	|   	|   	|
+|DNA   	|ensEMBL gene   	|biodbcore-000330   	|http://www.ensembl.org/   	|$id=ENSG\d+$   	|   	|
+|   	|Entrez Gene (aka NCBI Gene)   	|biodbcore-000449   	|http://www.ncbi.nlm.nih.gov/gene/$id   	|$id=^\d+$   	|   	|
+|messenger RNA   	|ensEMBL transcript   	|biodbcore-000330   	|http://www.ensembl.org/   	|$id=ENST\d+$   	|   	|
+|microRNA   	|mirbase   	|biodbcore-000569   	|http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc=$id   	|$id=MI\d{7}   	|   	|
+|Protein   	|Uniprot   	|biodbcore-000544   	|http://www.uniprot.org   	|$id=^([A-N,R-Z][0-9]([A-Z][A-Z, 0-9][A-Z, 0-9][0-9]){1,2})|([O,P,Q][0-9][A-Z, 0-9][A-Z, 0-9][A-Z, 0-9][0-9])(\.\d+)?$   	|   	|
+|DNA variant (**)   	|   	|   	|   	|   	|   	|
+|SNP   	|NCBI dbSNP   	|biodbcore-000438   	|http://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=$id   	|$id=^rs\d+$   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/)
+(used by CDISC PGX extension)
+   	|
+|Structural Variation   	|NCBI ClinVar   	|biodbcore-000739   	|http://www.ncbi.nlm.nih.gov/clinvar/   	|   	|Human Genome Variation Guidelines for annotation and nomenclature  (http://www.hgvs.org/mutnomen/)
+(used by CDISC PGX extension)
+  	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
+
+(NOTE) Consider Locus Reference Genomic (LRG)-sequences now or in the future (more information at: http://www.lrg-sequence.org/faq#faq_1)
+
+
+
+#### 4.3.1.2 Important Reagent Resources
+
+The table below lists major resources to be aware of when describing in-vitro based work. eTRIKS standard working group is aware of ongoing initiatives (e.g. cell line registry) and new versions of the eTRIKS Standard Starter Pack will reflect progress accordingly.
+
+|Molecular Entity   	|Resource Name   	|Biosharing identifier   	|Resource URI   	|Resource Identifier pattern  	|
+|---	|---	|---	|---	|---  	|
+|antibodies   	|antibody-registry  	|biodbcore-000182   	|http://antibodyregistry.org/AB_$id   	|$id=^\d+{6}$  	|
+|Plasmids and vectors   	|addgene   	|biodbcore-000196   	|www.addgene.org/$id   	|$id=^’\d+$  	|
+|cell lines   	|ATCC   	|biodbcore-000210   	|http://www.lgcstandards-atcc.org/Products/All/$id.aspx    	|$id=^’\d+$  	|
+
+
+
+#### 4.3.1.3 Important Resources for Describing Medical Devices
+
+In March 2016, the United States Foods and Drug Administration, in collaboration with the US National Library of Medicine released the ‘accessGUDID’ database of medical devices, with the aim of providing a consistent and standard way to identify medical devices throughout their distribution and use by health care providers and patients.
+
+
+
+|Entity   	|Resource Name   	|Biosharing identifier   	|Resource URI   	|Resource Identifier pattern  	|
+|---	|---	|---	|---	|---  	|
+|Medical Device   	|GUDID  	|biodbcore-000748  	|https://accessgudid.nlm.nih.gov/devices/search?query=$id  	|$id=^\d+{14}$ 	|
+
