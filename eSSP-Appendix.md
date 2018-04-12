@@ -57,7 +57,7 @@
   -	_TranSMART (TM)_ is the data warehouse that eTRIKS will contribute to develop in order to enable data hosting, sustainability, visualization and analysis.
     -	A tranSMART concept tree refers to the overall organisation and representation of the study concepts in the TranSMART User Interface (UI) (see an example of a tranSMART concept tree in Annex III).
 
-[FIGURE]
+![alt text][image A]
 
 ## A.II. eTRIKS Standards as available from BioSharing:
 
@@ -69,7 +69,7 @@ Biosharing (www.biosharing.org) is an open source initiative aiming at providing
 Figure 1. The eTRIKS view of relevant standards as available from Biosharing website.
 https://www.biosharing.org/collection/5?q=&view=table
 
-
+![alt text][image B]
 
 
 
@@ -79,7 +79,7 @@ Right pane: 2 views of a CDISC SDTM based TransMART master tree data explorer.  
 
 [FIGURE]
 
-
+![alt text][image C]
 -----------------
 
 <a name="myfootnote44">44</a>: "Home - The Cancer Genome Atlas - Cancer Genome - TCGA." 2005. 8 Jun. 2015 (http://cancergenome.nih.gov/)
@@ -91,3 +91,8 @@ Right pane: 2 views of a CDISC SDTM based TransMART master tree data explorer.  
 <a name="myfootnote47">47</a>: "Experimental Factor Ontology - EMBL-EBI." 2009. 8 Jun. 2015 (http://www.ebi.ac.uk/efo)
 
 
+----------------
+
+[image A]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "image A"
+[image B]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-FAIRsharing.png "image B"
+[image C]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "image C"
