@@ -209,11 +209,13 @@ The following section is dedicated to identifying major terminology efforts aime
 The resources listing below encompass naturally occurring molecules as well as man-made, synthetic molecules, from small molecules to macromolecules.
 The table below highlight semantic resources and complements the table found in section 4.3.1.1 , which listed databases of molecular entities. Records in those databases may be annotated with the terminologies presented below.
 
-|   	|   	|   	|   	|   	|   	|   	|   	|
+|Scope   	|Name   	|biosharing identifier   	|File location   	|Top-Level Ontology   	|Licence   	|Issue Tracker URI   	|Comment   	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|
+|Unique Ingredient Identifier   	|UNIII   	|   	|http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/default.htm   	|   	|   	|   	|Use Mandated by FDA for regulatory submissions   	|
+|Chemicals and Small Molecules   	|CHEBI   	|bsg-000039   	|http://ftp.ebi.ac.uk/chebi.owl   	|BFO   	|CC-by 3.0 Unported Licence   	|https://github.com/ebi-chebi/ChEBI/issues   	|   	|
+|Drug   	|National Drug File   	|bsg-002592   	|http://www.pbm.va.gov/NationalFormulary.asp   	|   	|Mind the terms: https://uts.nlm.nih.gov/license.html   	|   	|   	|
+|Gene Function, Molecular Component, Biological Process   	|GO   	|bsg-000089   	|http://purl.obolibrary.org/obo/go.owl   	|BFO   	|CC-by 4.0 Unported License   	|https://github.com/geneontology/go-ontology/issues/   	|   	|
+|Protein/peptide   	|PRO   	|bsg-000139   	|http://ftp.pir.georgetown.edu/pro.obo   	|BFO   	|CC-by 3.0 Unported Licence   	|http://sourceforge.net/p/pro-obo/term-requests/   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|   	|
 
 #### 4.4.3.6 Assays and Technologies
