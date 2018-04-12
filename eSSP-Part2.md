@@ -78,6 +78,8 @@ Standardization efforts can be slow to bring about actionable documents, meaning
 For this reason, eTRIKS Standards Work Package participants will review the changing landscape of data standards and carry out revisions to our recommendations on a regular basis over the course of the eTRIKS project.
 
 
+
+---------------
 <a name="myfootnote15">15</a>:  "World Wide Web Consortium (W3C)." 19 Jun. 2015 (http://www.w3.org/)
 
 <a name="myfootnote16">16</a>:  "ISO Standards - ISO." 2012. 6 Jun. 2015 (http://www.iso.org/iso/home/standards.htm)
