@@ -1,22 +1,24 @@
 # eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
 
 ## Projects and Organisations:
-----------
+
+The eTRIKS project was funded by the European Union Innovative Medicine Initiatve
 
 <a href="https://www.etriks.org/"><img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg" width="10%" align="left" height="10%"></a>
 <a href="https://www.imi.europa.eu/"><img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg" width="10%" align="right" height="10%"></a>
 
 ----------
 
+
 ## Team Members (by alphabetical order):
 
-  - Dorina Bratfalean – CDISC Europe Foundation,
-  - Braxenthaler, Michael – Roche Innovation Center New York,
-  - [Houston, Paul – CDISC Europe Foundation](mailto:phouston@cdisc.org),
-  - Munro, Robin – ID Business Solutions Limited,
-  - Richard, Fabien – Centre National de la Recherche Scientifique,
-  - [Rocca-Serra, Philippe](mailto:philippe.rocca-serra@oerc.ox.ac.uk) @proccaserra :honeybee: – Oxford e-Research Centre, University of Oxford, 
-  - Romacker, Martin – Roche Innovation Center Basel,
+  - Dorina Bratfalean – CDISC Europe Foundation.
+  - Braxenthaler, Michael – Roche Innovation Center New York.
+  - [Houston, Paul – CDISC Europe Foundation](mailto:phouston@cdisc.org).
+  - Munro, Robin – ID Business Solutions Limited.
+  - Richard, Fabien – Centre National de la Recherche Scientifique.
+  - [Rocca-Serra, Philippe](mailto:philippe.rocca-serra@oerc.ox.ac.uk) - [@proccaserra](https://github.com/proccaserra) :honeybee: – Oxford e-Research Centre, University of Oxford. 
+  - Romacker, Martin – Roche Innovation Center Basel.
   - Sansone, Susanna-Assunta – Oxford e-Research Centre, University of Oxford.
 
 
@@ -100,7 +102,7 @@ Example and Application: Procedure for selecting relevant standards given an eTR
     - Data Types and Levels
     - A.II. eTRIKS Standards as available from BioSharing:
     - A.III. tranSMART master tree
-  -[Bibliography](eSSP-bibliography.md)
+  - [Bibliography](eSSP-bibliography.md)
 
 
 --------
