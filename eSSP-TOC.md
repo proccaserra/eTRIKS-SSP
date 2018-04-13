@@ -2,8 +2,8 @@
 
 # eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
 
-![eTRIKS logo](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.png)
-![IMI logo](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.png)<!-- .element height="50%" width="50%" -->
+![eTRIKS logo](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg){:height="24px" width="48px"}
+![IMI logo](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg){:height="24px" width="48px"}
 
 ## Team Members (by alphabetical order):
 
@@ -12,12 +12,12 @@
   - Houston, Paul – CDISC Europe Foundation (*),
   - Munro, Robin – ID Business Solutions Limited,
   - Richard, Fabien – Centre National de la Recherche Scientifique,
-  - Rocca-Serra, Philippe @proccaserra :+1:  – Oxford e-Research Centre, University of Oxford (*)
+  - Rocca-Serra, Philippe @proccaserra :honeybee:  – Oxford e-Research Centre, University of Oxford (*)
   - Romacker, Martin – Roche Innovation Center Basel,
   - Sansone, Susanna-Assunta – Oxford e-Research Centre, University of Oxford.
 
 ## Licence:
-![logo-CCBYSA](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png)<!-- .element height="50%" width="50%" -->
+![logo-CCBYSA](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png ){:height="24px" width="48px"}
 https://creativecommons.org/licenses/by-sa/4.0/ 
  
 
