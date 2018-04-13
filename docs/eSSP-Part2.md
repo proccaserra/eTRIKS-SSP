@@ -80,6 +80,7 @@ For this reason, eTRIKS Standards Work Package participants will review the chan
 
 
 ---------------
+<sub>
 <a name="myfootnote15">15</a>:  "World Wide Web Consortium (W3C)." 19 Jun. 2015 (http://www.w3.org/)
 
 <a name="myfootnote16">16</a>:  "ISO Standards - ISO." 2012. 6 Jun. 2015 (http://www.iso.org/iso/home/standards.htm)
@@ -108,5 +109,5 @@ For this reason, eTRIKS Standards Work Package participants will review the chan
 
 <a name="myfootnote28">28</a>: "Coalition For Accelerating Standards and Therapies (CFAST)." 9 Jun. 2015 (http://blogs.fda.gov/fdavoice/index.php/tag/coalition-for-accelerating-standards-and-therapies-cfast/)
 
-
+</sub>
 

@@ -66,6 +66,7 @@ One of the eTRIKS objectives is to show how and why the adoption and use of stan
 
 
 ---------------
+<sub>
 
 <a name="myfootnote15">15</a>:  "World Wide Web Consortium (W3C)." 19 Jun. 2015 (http://www.w3.org/)
 
@@ -87,6 +88,6 @@ One of the eTRIKS objectives is to show how and why the adoption and use of stan
 <a name="myfootnote36">36</a>: "Guidelines on Data Management in Horizon 2020." 2016. 14 Mar. 2016 (https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 <a name="myfootnote37">37</a>:  Bel, EH et al. "Unbiased Biomarkers for the Prediction of Respiratory Disease Outcome (U-BIOPRED) Consortium, Consensus Generation. Diagnosis and definition of severe refractory asthma: an international consensus statement from the Innovative Medicine Initiative (IMI)." Thorax 66.10 (2011): 910-7.
 
-
+</sub>
 
 
