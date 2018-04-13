@@ -56,6 +56,7 @@ Standards are developed to increase data interoperability, reproducibility, reus
 
 
 ---------------
+<sub>
 <a name="myfootnote1">1</a>: "What is eTRIKS?" 2012. 6 Jun. 2015  (http://www.etriks.org/)
 
 <a name="myfootnote2">2</a>: "Innovative Medicines Initiative: Home IMI." 2007. 6 Jun. 2015 (http://www.imi.europa.eu/)
@@ -84,5 +85,5 @@ Standards are developed to increase data interoperability, reproducibility, reus
 
 <a name="myfootnote14">14</a>: "What Is Provenance - XG Provenance Wiki." 2010. 19 Jun. 2015 (http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance)
 
-
+</sub>
 
