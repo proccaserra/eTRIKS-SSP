@@ -2,11 +2,11 @@
 
 # eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
 
-![eTRIKS logo](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg)
-<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg" width="48" align="left" height="48">
 
-![IMI logo](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg)
-<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg" width="48" align="right" height="48">
+<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg" width="80%" align="left" height="80%">
+
+
+<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg" width="10%" align="right" height="10%">
 
 ## Team Members (by alphabetical order):
 
@@ -21,7 +21,7 @@
 
 ## Licence:
 
-<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png" width="50%" align="right" height="50%">
+<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png" width="10%" align="right" height="10%">
 https://creativecommons.org/licenses/by-sa/4.0/ 
  
 
