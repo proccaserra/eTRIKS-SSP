@@ -36,7 +36,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Table of Content:
 
-  - A Business Case for Standards in eTRIKS
+  - [A Business Case for Standards in eTRIKS](eSSP-business-case.md)
   - [Part 1. Introduction](eSSP-Part1.md)
     - 1.1 eTRIKS mission and objectives
     - 1.3 Intended Audience
