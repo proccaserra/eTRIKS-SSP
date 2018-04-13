@@ -308,7 +308,7 @@ The following table presents key reporting guidelines, exchange formats and term
 
 
 | Measurement Category          | Assay Name                             | Technology                                | Reporting Guideline | Maker                 | Probe Design              | Probe Design File (Annotation File) | Standard Format [Primary Data] | Primary Data Vendor File Format | Standard Format [Derived Data File] |
-|-------------------------------------|--------------------------------|---------------------------------|-------------------------------------|
+|--------------	|-----------	|------------|------------|-----------	|---------	|--------------	|-------------------|------------------------|-------------|
 | genetic variation             | genome wide DNA variation profiling    | DNA microarray                            | MIAME               | Affymetrix            | array design              | .CDF file                           | <none available>               | .CEL                            | .VCF                                |
 |                               | genome wide DNA variation profiling    | DNA microarray                            | MIAME               | Agilent               | array design              | .GAL                                | <none available>               | agilent feature extraction .txt | .VCF                                |
 |                               | genome wide DNA variation profiling    | DNA microarray                            | MIAME               | Illumina              | array design              | .bpm file, .egt                     | <none available>               | .idat                           | .VCF                                |
