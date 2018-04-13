@@ -10,14 +10,15 @@
 
 ## Team Members (by alphabetical order):
 
-  - Dorina Bratfalean – CDISC Europe Foundation (*),
+  - Dorina Bratfalean – CDISC Europe Foundation,
   - Braxenthaler, Michael – Roche Innovation Center New York,
-  - Houston, Paul – CDISC Europe Foundation (*),
+  - [Houston, Paul – CDISC Europe Foundation](mailto:phouston@cdisc.org),
   - Munro, Robin – ID Business Solutions Limited,
   - Richard, Fabien – Centre National de la Recherche Scientifique,
-  - @proccaserra :honeybee: Rocca-Serra, Philippe  – Oxford e-Research Centre, University of Oxford (*)
+  - [Rocca-Serra, Philippe](mailto:philippe.rocca-serra@oerc.ox.ac.uk) @proccaserra :honeybee: – Oxford e-Research Centre, University of Oxford, 
   - Romacker, Martin – Roche Innovation Center Basel,
   - Sansone, Susanna-Assunta – Oxford e-Research Centre, University of Oxford.
+
 
 ## Licence:
 
@@ -29,7 +30,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 <a href="https://doi.org/10.5281/zenodo.50825"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.50825.svg" alt="DOI"></a>
 
-
+- [x] This is a complete item released on April, 25th, 2016
 
 ## Table of Content:
 
