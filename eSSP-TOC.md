@@ -19,7 +19,7 @@
       - 2.4.1 Coverage gap in a domain covered by an existing standard
       - 2.4.2 Coverage gap in a domain not covered by standards
     - 2.5 Changes, maintenance and updates to eTRIKS Standard Starter Pack
-[Part 3.  Standards in data management](eSSP-Part3.md)
+  - [Part 3.  Standards in data management](eSSP-Part3.md)
     - 3.1 Standards for Data Security, Data Privacy and Compliance with Ethical Guidelines.
       - 3.1.1 Data Access and Security
       - 3.1.2 Data Privacy and Anonymization
