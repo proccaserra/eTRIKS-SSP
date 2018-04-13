@@ -1,21 +1,24 @@
-![alt text][logo-etriks]
-![alt text][logo-imi]
 
 
-#eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
+# eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
 
-##Team Members (by alphabetical order):
+![alt text][logo-etriks?v=4&s=200]
+
+![alt text][logo-imi?v=4&s=200]
+
+
+## Team Members (by alphabetical order):
 
   - Dorina Bratfalean – CDISC Europe Foundation (*),
   - Braxenthaler, Michael – Roche Innovation Center New York,
   - Houston, Paul – CDISC Europe Foundation (*),
   - Munro, Robin – ID Business Solutions Limited,
   - Richard, Fabien – Centre National de la Recherche Scientifique,
-  - @proccaserra Rocca-Serra, Philippe – Oxford e-Research Centre, University of Oxford (*)
+ @proccaserra :+1:  Rocca-Serra, Philippe – Oxford e-Research Centre, University of Oxford (*)
   - Romacker, Martin – Roche Innovation Center Basel,
   - Sansone, Susanna-Assunta – Oxford e-Research Centre, University of Oxford.
 
-##Licence:
+## Licence:
 https://creativecommons.org/licenses/by-sa/4.0/  ![alt text][logo-CCBYSA]
  
 
@@ -89,7 +92,7 @@ Example and Application: Procedure for selecting relevant standards given an eTR
     - A.III. tranSMART master tree
   -[Bibliography]()
 
-  
+
 --------
 [logo-etriks]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.png "logo eTRIKS"
 [logo-imi]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.png "logo IMI"
