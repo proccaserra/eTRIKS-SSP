@@ -14,7 +14,7 @@
   - Houston, Paul – CDISC Europe Foundation (*),
   - Munro, Robin – ID Business Solutions Limited,
   - Richard, Fabien – Centre National de la Recherche Scientifique,
- @proccaserra :+1:  Rocca-Serra, Philippe – Oxford e-Research Centre, University of Oxford (*)
+  - Rocca-Serra, Philippe @proccaserra :+1:  – Oxford e-Research Centre, University of Oxford (*)
   - Romacker, Martin – Roche Innovation Center Basel,
   - Sansone, Susanna-Assunta – Oxford e-Research Centre, University of Oxford.
 
