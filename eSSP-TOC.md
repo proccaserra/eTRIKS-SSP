@@ -1,11 +1,9 @@
+# eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
+
+## Projects and Organisations:
 
 <a href="https://www.etriks.org/"><img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg" width="10%" align="left" height="10%"></a>
 <a href="https://www.imi.europa.eu/"><img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg" width="10%" align="right" height="10%"></a>
-
-
-# eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
-
-<a href="https://doi.org/10.5281/zenodo.50825"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.50825.svg" alt="DOI"></a>
 
 ## Team Members (by alphabetical order):
 
@@ -23,6 +21,12 @@
 <a href="https://creativecommons.org/licenses/by-sa/4.0/ "><img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png" width="10%" align="right" height="10%"></a>
 https://creativecommons.org/licenses/by-sa/4.0/ 
  
+
+## Official Release Document:
+
+<a href="https://doi.org/10.5281/zenodo.50825"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.50825.svg" alt="DOI"></a>
+
+
 
 ## Table of Content:
 
