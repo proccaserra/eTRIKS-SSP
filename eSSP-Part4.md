@@ -230,7 +230,7 @@ The table below highlight semantic resources and complements the table found in 
 |Chemicals and Small Molecules   	|CHEBI   	|[bsg-000039](https://biosharing.org/bsg-000039)   	|http://ftp.ebi.ac.uk/chebi.owl   	|BFO   	|CC-by 3.0 Unported Licence   	|https://github.com/ebi-chebi/ChEBI/issues   	|   	|
 |Drug   	|National Drug File   	|[bsg-002592](https://biosharing.org/bsg-002592)  	|http://www.pbm.va.gov/NationalFormulary.asp   	|   	|Mind the terms: https://uts.nlm.nih.gov/license.html   	|   	|   	|
 |Gene Function, Molecular Component, Biological Process   	|GO   	|[bsg-000089](https://biosharing.org/bsg-000089)   	|http://purl.obolibrary.org/obo/go.owl   	|BFO   	|CC-by 4.0 Unported License   	|https://github.com/geneontology/go-ontology/issues/   	|   	|
-|Protein/peptide   	|PRO   	|[bsg-000139(https://biosharing.org/bsg-000139)   	|http://ftp.pir.georgetown.edu/pro.obo   	|BFO   	|CC-by 3.0 Unported Licence   	|http://sourceforge.net/p/pro-obo/term-requests/   	|   	|
+|Protein/peptide   	|PRO   	|[bsg-000139](https://biosharing.org/bsg-000139)   	|http://ftp.pir.georgetown.edu/pro.obo   	|BFO   	|CC-by 3.0 Unported Licence   	|http://sourceforge.net/p/pro-obo/term-requests/   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|   	|
 
 #### 4.4.3.6 Assays and Technologies
