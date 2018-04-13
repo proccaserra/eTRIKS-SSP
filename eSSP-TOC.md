@@ -5,6 +5,8 @@
 <a href="https://www.etriks.org/"><img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg" width="10%" align="left" height="10%"></a>
 <a href="https://www.imi.europa.eu/"><img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg" width="10%" align="right" height="10%"></a>
 
+----------
+
 ## Team Members (by alphabetical order):
 
   - Dorina Bratfalean – CDISC Europe Foundation (*),
