@@ -3,7 +3,7 @@
 # eTRIKS -Standards Starter Pack Standards Guidelines - Release 1.1 - 25th April 2016
 
 
-<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg" width="80%" align="left" height="80%">
+<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/eTRIKSlogo2.jpg" width="10%" align="left" height="10%">
 
 
 <img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/IMI_Logo2014-HorizPos.jpg" width="10%" align="right" height="10%">
