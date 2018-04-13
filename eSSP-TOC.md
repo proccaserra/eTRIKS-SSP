@@ -100,7 +100,7 @@ Example and Application: Procedure for selecting relevant standards given an eTR
     - Data Types and Levels
     - A.II. eTRIKS Standards as available from BioSharing:
     - A.III. tranSMART master tree
-  -[Bibliography]()
+  -[Bibliography](eSSP-bibliography.md)
 
 
 --------
