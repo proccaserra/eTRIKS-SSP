@@ -20,8 +20,8 @@
   - Sansone, Susanna-Assunta – Oxford e-Research Centre, University of Oxford.
 
 ## Licence:
-![logo-CCBYSA](https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png )
-<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png" width="48" align="right" height="48">
+
+<img src="https://github.com/proccaserra/eTRIKS-SSP/blob/master/logos/CCBYSA.png" width="50%" align="right" height="50%">
 https://creativecommons.org/licenses/by-sa/4.0/ 
  
 
