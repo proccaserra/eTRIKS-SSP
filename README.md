@@ -36,4 +36,4 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 - [x] This is a complete item released on April, 25th, 2016
 
-## [Table of Content:](eSSP-TOC.md)
+## [Table of Content:](docs/eSSP-TOC.md)

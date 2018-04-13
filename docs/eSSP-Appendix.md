@@ -57,7 +57,6 @@
   -	_TranSMART (TM)_ is the data warehouse that eTRIKS will contribute to develop in order to enable data hosting, sustainability, visualization and analysis.
     -	A tranSMART concept tree refers to the overall organisation and representation of the study concepts in the TranSMART User Interface (UI) (see an example of a tranSMART concept tree in Annex III).
 
-![alt text][image A]
 
 ## A.II. eTRIKS Standards as available from BioSharing:
 
@@ -88,7 +87,5 @@ Right pane: 2 views of a CDISC SDTM based TransMART master tree data explorer.  
 
 
 ----------------
-
-[image A]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-Roadmap.png  "image A"
 [image B]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-FAIRsharing.png "image B"
 [image C]: https://github.com/proccaserra/eTRIKS-SSP/blob/master/figures/eSSP-TransMART-MasterTree.png "image C"

@@ -2,15 +2,15 @@
 
 ## Table of Content:
 
-  - [A Business Case for Standards in eTRIKS](eSSP-business-case.md)
-  - [Part 1. Introduction](eSSP-Part1.md)
+  - [A Business Case for Standards in eTRIKS](docs/eSSP-business-case.md)
+  - [Part 1. Introduction](docs/eSSP-Part1.md)
     - 1.1 eTRIKS mission and objectives
     - 1.3 Intended Audience
     - 1.4 Standard Definition and Typology
       - 1.4.1 Definition of Standards:
       - 1.4.2 Typology of Standards
     - 1.5 Purpose of Standards
-  - [Part 2. Procedure for standards selection and recommendation](eSSP-Part2.md)
+  - [Part 2. Procedure for standards selection and recommendation](docs/eSSP-Part2.md)
     - 2.1 Procedure outline
     - 2.2 Attributes of standards
     - 2.3 Versioning of Standards
@@ -19,7 +19,7 @@
       - 2.4.1 Coverage gap in a domain covered by an existing standard
       - 2.4.2 Coverage gap in a domain not covered by standards
     - 2.5 Changes, maintenance and updates to eTRIKS Standard Starter Pack
-  - [Part 3.  Standards in data management](eSSP-Part3.md)
+  - [Part 3.  Standards in data management](docs/eSSP-Part3.md)
     - 3.1 Standards for Data Security, Data Privacy and Compliance with Ethical Guidelines.
       - 3.1.1 Data Access and Security
       - 3.1.2 Data Privacy and Anonymization
@@ -29,7 +29,7 @@ Example and Application: Procedure for selecting relevant standards given an eTR
     - 3.3 Prospective data capture
     - 3.4 Retrospective data capture and legacy data
     - 3.5 Case study
-  - [Part 4.  eTRIKS recommended resources](eSSP-Part4.md)
+  - [Part 4.  eTRIKS recommended resources](docs/eSSP-Part4.md)
     - 4.1 eTRIKS - Recommendations for Exchange Format for Clinical Study
       - 4.1.1 CDISC Standards
       - 4.1.2 SPREC Guidelines for Solid and Fluid Samples:
@@ -59,8 +59,8 @@ Example and Application: Procedure for selecting relevant standards given an eTR
         - 4.4.5.1 Content and Browsing Resources
         - 4.4.5.2 Tools and APIs
     - 4.5 eTRIKS-WP3 Starter-Pack Recommendations Exchange Format for  Omics:
-  - [Part 5. Future work and roadmap](eSSP-Part5.md)
-  - [Appendix](eSSP-Appendix.md)
+  - [Part 5. Future work and roadmap](docs/eSSP-Part5.md)
+  - [Appendix](docs/eSSP-Appendix.md)
     - A.I. Glossary (terms and definitions)
     - Person and Organization Roles
     - Data Curation
@@ -68,7 +68,7 @@ Example and Application: Procedure for selecting relevant standards given an eTR
     - Data Types and Levels
     - A.II. eTRIKS Standards as available from BioSharing:
     - A.III. tranSMART master tree
-  - [Bibliography](eSSP-bibliography.md)
+  - [Bibliography](docs/eSSP-bibliography.md)
 
 
 --------
