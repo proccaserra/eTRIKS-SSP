@@ -18,7 +18,12 @@ A graphical overview of the roadmap is presented below.
 
 ![alt text][image A]
 
-The coloured cones indicate planned releases and milestones. However, the output is not confined to single point releases and documents.  Training materials, examples and tutorials will be posted from eTRIKS portal as they are developed.
+The coloured cones indicate planned releases and milestones. However, the output is not confined to single point releases and documents.  Training materials, examples and tutorials will be posted from eTRIKS portal as they are developed.  
+
+
+
+- [Go back to Part 4. Procedure for standards selection and recommendation](eSSP-Part4.md)
+- [Go to Table of Content](eSSP-TOC.md)
 
 -----------------
 <sub>
