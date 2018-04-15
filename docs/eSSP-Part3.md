@@ -64,8 +64,8 @@ One of the eTRIKS objectives is to show how and why the adoption and use of stan
 
 
 
-- [Proceed to Part 4. Procedure for standards selection and recommendation](eSSP-Part4.md)
-- [Go back to Part 2. Procedure for standards selection and recommendation](eSSP-Part2.md)
+- [Proceed to Part 4.](eSSP-Part4.md)
+- [Go back to Part 2.](eSSP-Part2.md)
 - [Go to Table of Content](eSSP-TOC.md)
 
 

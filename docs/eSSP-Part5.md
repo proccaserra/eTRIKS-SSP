@@ -22,7 +22,7 @@ The coloured cones indicate planned releases and milestones. However, the output
 
 
 
-- [Go back to Part 4. Procedure for standards selection and recommendation](eSSP-Part4.md)
+- [Go back to Part 4.](eSSP-Part4.md)
 - [Go to Table of Content](eSSP-TOC.md)
 
 -----------------

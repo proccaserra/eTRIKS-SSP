@@ -50,9 +50,9 @@ Standards are developed to increase data interoperability, reproducibility, reus
 
 * **Reusability**: Conformance to standards ensures reliable and consistent description of information (both in structure and content), making it easier to develop robust software for exchanging data payload to be exploited by computational systems. Therefore, standards make data (and research objects) more usable, re-usable, and comparable across studies and/or organizations. Reusability is a central aspect of data preservation, working on the premises that dataset availability should allow meta analysis and discovery through data aggregation. Furthermore, good annotation standards lead to a higher reliability of meta-analysis results by better selecting data from different studies for those meta-analyses.
 
-* **Reproducibility**: Reporting standards enable to evaluate data quality, to ascertain solidity of claims and findings. They are therefore invaluable resources, as they allow information to be assessed. On the one hand, reporting standards, by making key requirements explicit, allow for instance in the case of experimental information testing for confounding factors, thus enhancing reassessment and reproducibility. On the other hand, information provenance<sup>[14](#myfootnote14)</sup>  standards provide the means to records events to the data artefacts itself and the chain of custody associated with it. Both types contribute to good data stewardship. 
+* **Reproducibility**: Reporting standards enable to evaluate data quality, to ascertain solidity of claims and findings. They are therefore invaluable resources, as they allow information to be assessed. On the one hand, reporting standards, by making key requirements explicit, allow for instance in the case of experimental information testing for confounding factors, thus enhancing reassessment and reproducibility. On the other hand, information provenance<sup>[14](#myfootnote14)</sup>  standards provide the means to records events to the data artefacts itself and the chain of custody associated with it. Both types contribute to good data stewardship.  
 
-  - [Go to Part 2. Procedure for standards selection and recommendation](eSSP-Part2.md)
+  - [Go to Part 2.](eSSP-Part2.md)
   - [Go to Table of Content](eSSP-TOC.md)
 
 ---------------

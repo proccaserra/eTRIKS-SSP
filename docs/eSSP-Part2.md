@@ -77,8 +77,8 @@ Conversely, substantial aspects of experimental science are not covered by broad
 Standardization efforts can be slow to bring about actionable documents, meaning that users need to make do with the existing. Alternately, ongoing efforts in specific area are known to exists and their output is announced (for instance, the various working groups in CDISC therapeutic areas publish roadmaps and calendar updates of their progress <sup>[28](#myfootnote28)</sup>)
 For this reason, eTRIKS Standards Work Package participants will review the changing landscape of data standards and carry out revisions to our recommendations on a regular basis over the course of the eTRIKS project.  
 
-- [Proceed to Part 3. Procedure for standards selection and recommendation](eSSP-Part3.md)
-- [Go back to Part 1. Procedure for standards selection and recommendation](eSSP-Part1.md)
+- [Proceed to Part 3.](eSSP-Part3.md)
+- [Go back to Part 1.](eSSP-Part1.md)
 - [Go to Table of Content](eSSP-TOC.md)
 
 
