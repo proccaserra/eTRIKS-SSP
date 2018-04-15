@@ -369,12 +369,12 @@ The following table presents key reporting guidelines, exchange formats and term
 | cell characterization         | cell counting                          | fluorescent activated cell sorting (FACS) | MIFlowCyt           | Becton Dickinson      | protein list              | not applicable                      | .FCS                           |                                 |                                     |
 |                               | cell sorting                           | fluorescent activated cell sorting (FACS) | MIFlowCyt           | EMD millipore         | protein list              | not applicable                      | .FCS                           |                                 |                                     |
 
+  
 
 
 
-[Proceed to Part 5. Procedure for standards selection and recommendation](eSSP-Part5.md)
-[Go back to Part 3. Procedure for standards selection and recommendation](eSSP-Part3.md)
-[Go to Table of Content](eSSP-TOC.md)
+- [Go back to Part 4. Procedure for standards selection and recommendation](eSSP-Part4.md)
+- [Go to Table of Content](eSSP-TOC.md)
 
 
 

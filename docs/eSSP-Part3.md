@@ -60,13 +60,13 @@ Legacy data may be re-curated to conform to a given standard by the data curator
 In either situation, dealing with retrospective or prospective data, a data validation plan (DVP) should be established prior to performing any modification on the submitted data. eTRIKS WP3 is currently working at creating specific documentation about this particular step.
 
 ## 3.5 Case study
-One of the eTRIKS objectives is to show how and why the adoption and use of standards can benefit the downstream knowledge generation within and across projects. Initial experience gained from the U-BIOPRED project<sup>[37](#myfootnote37)</sup>  will be reported in another document.
+One of the eTRIKS objectives is to show how and why the adoption and use of standards can benefit the downstream knowledge generation within and across projects. Initial experience gained from the U-BIOPRED project<sup>[37](#myfootnote37)</sup>  will be reported in another document.  
 
 
 
-[Proceed to Part 4. Procedure for standards selection and recommendation](eSSP-Part4.md)
-[Go back to Part 2. Procedure for standards selection and recommendation](eSSP-Part2.md)
-[Go to Table of Content](eSSP-TOC.md)
+- [Proceed to Part 4. Procedure for standards selection and recommendation](eSSP-Part4.md)
+- [Go back to Part 2. Procedure for standards selection and recommendation](eSSP-Part2.md)
+- [Go to Table of Content](eSSP-TOC.md)
 
 
 ---------------

@@ -75,12 +75,11 @@ For each, eTRIKS WP3 members will outline procedures intended to guide eTRIKS us
 Science and technology are in constant evolution. As with anything, keeping abreast of those changes will be an essential part of eTRIKS Work Package 3. Therefore, it is essential that readers are aware that recommendations made about which data standards to use may change too. Disruptive technologies, both in the field of wet laboratory hardware but also in the field of computer science, computational biology and information technologies may be introduced and radically alter the way to handle specific data elements.
 Conversely, substantial aspects of experimental science are not covered by broadly adopted standards, standards especially in the rapidly growing area of genomics and other -omics.  
 Standardization efforts can be slow to bring about actionable documents, meaning that users need to make do with the existing. Alternately, ongoing efforts in specific area are known to exists and their output is announced (for instance, the various working groups in CDISC therapeutic areas publish roadmaps and calendar updates of their progress <sup>[28](#myfootnote28)</sup>)
-For this reason, eTRIKS Standards Work Package participants will review the changing landscape of data standards and carry out revisions to our recommendations on a regular basis over the course of the eTRIKS project.
+For this reason, eTRIKS Standards Work Package participants will review the changing landscape of data standards and carry out revisions to our recommendations on a regular basis over the course of the eTRIKS project.  
 
-
-[Proceed to Part 3. Procedure for standards selection and recommendation](eSSP-Part3.md)
-[Go back to Part 1. Procedure for standards selection and recommendation](eSSP-Part1.md)
-[Go to Table of Content](eSSP-TOC.md)
+- [Proceed to Part 3. Procedure for standards selection and recommendation](eSSP-Part3.md)
+- [Go back to Part 1. Procedure for standards selection and recommendation](eSSP-Part1.md)
+- [Go to Table of Content](eSSP-TOC.md)
 
 
 ---------------
