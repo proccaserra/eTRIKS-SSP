@@ -372,6 +372,11 @@ The following table presents key reporting guidelines, exchange formats and term
 
 
 
+[Proceed to Part 5. Procedure for standards selection and recommendation](eSSP-Part5.md)
+[Go back to Part 3. Procedure for standards selection and recommendation](eSSP-Part3.md)
+[Go to Table of Content](eSSP-TOC.md)
+
+
 
 -----------
 <sub>

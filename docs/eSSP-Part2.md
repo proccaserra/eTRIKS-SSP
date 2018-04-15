@@ -78,6 +78,10 @@ Standardization efforts can be slow to bring about actionable documents, meaning
 For this reason, eTRIKS Standards Work Package participants will review the changing landscape of data standards and carry out revisions to our recommendations on a regular basis over the course of the eTRIKS project.
 
 
+[Proceed to Part 3. Procedure for standards selection and recommendation](eSSP-Part3.md)
+[Go back to Part 1. Procedure for standards selection and recommendation](eSSP-Part1.md)
+[Go to Table of Content](eSSP-TOC.md)
+
 
 ---------------
 <sub>

@@ -52,8 +52,8 @@ Standards are developed to increase data interoperability, reproducibility, reus
 
 * **Reproducibility**: Reporting standards enable to evaluate data quality, to ascertain solidity of claims and findings. They are therefore invaluable resources, as they allow information to be assessed. On the one hand, reporting standards, by making key requirements explicit, allow for instance in the case of experimental information testing for confounding factors, thus enhancing reassessment and reproducibility. On the other hand, information provenance<sup>[14](#myfootnote14)</sup>  standards provide the means to records events to the data artefacts itself and the chain of custody associated with it. Both types contribute to good data stewardship. 
 
-
-
+  - [Go to Part 2. Procedure for standards selection and recommendation](eSSP-Part2.md)
+  - [Go to Table of Content](eSSP-TOC.md)
 
 ---------------
 <sub>
